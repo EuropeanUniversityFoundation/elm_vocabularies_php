@@ -101,7 +101,7 @@ final class LearningActivityType implements ControlledVocabularyInterface
      **/
     public function get(string $key): ?array
     {
-        return $this->list ?? null;
+        return $this->list[$key] ?? null;
     }
 
     /**
