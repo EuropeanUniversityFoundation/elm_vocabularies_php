@@ -8,6 +8,17 @@ namespace Elm;
 interface ControlledVocabularyInterface
 {
     /**
+     * Get vocabulary name.
+     *
+     * Returns the name of the vocabulary in the specified language.
+     *
+     * @param string $language Language of the vocabulary name
+     *
+     * @return string|null
+     **/
+    public function getName(string $language): ?string;
+
+    /**
      * Get labeled list.
      *
      * Returns a list of items labeled in the specified language.

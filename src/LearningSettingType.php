@@ -16,6 +16,20 @@ final class LearningSettingType implements ControlledVocabularyInterface
 
     const DEFAULT_LANGUAGE = 'en';
 
+    /**
+     * Vocabulary name in multiple languages.
+     *
+     * @var array
+     */
+    protected array $name = [
+        'en' => 'Learning setting type',
+    ];
+
+    /**
+     * List of vocabulary items.
+     *
+     * @var array
+     */
     protected array $list;
 
     /**
@@ -24,6 +38,20 @@ final class LearningSettingType implements ControlledVocabularyInterface
     public function __construct()
     {
         $this->list = static::list();
+    }
+
+    /**
+     * Get vocabulary name.
+     *
+     * Returns the name of the vocabulary in the specified language.
+     *
+     * @param string $language Language of the vocabulary name
+     *
+     * @return string|null
+     **/
+    public function getName(string $language = 'en'): ?string
+    {
+        return $this->name[$language] ?? null;
     }
 
     /**
