@@ -63,6 +63,20 @@ final class LearningOpportunityType implements ControlledVocabularyInterface
     }
 
     /**
+     * Get vocabulary item.
+     *
+     * Retrieves a single item from the vocabulary based on its key.
+     *
+     * @param string $key The key of the item to retrieve.
+     *
+     * @return array|null
+     **/
+    public function get(string $key): ?array
+    {
+        return $this->list ?? null;
+    }
+
+    /**
      * Curated vocabulary.
      *
      * Returns the content of the controlled vocabulary.

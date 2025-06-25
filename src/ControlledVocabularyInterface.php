@@ -30,4 +30,15 @@ interface ControlledVocabularyInterface
      **/
     public function keyExists(string $key): bool;
 
+    /**
+     * Get vocabulary item.
+     *
+     * Retrieves a single item from the vocabulary based on its key.
+     *
+     * @param string $key The key of the item to retrieve.
+     *
+     * @return array|null
+     **/
+    public function get(string $key): ?array;
+
 }
