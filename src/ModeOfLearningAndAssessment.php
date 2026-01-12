@@ -7,101 +7,32 @@ namespace Elm;
  *
  * @link https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://data.europa.eu/snb/learning-assessment/25831c2
  */
-final class ModeOfLearningAndAssessment implements ControlledVocabularyInterface
+final class ModeOfLearningAndAssessment extends ControlledVocabulary
 {
-    const LABEL = 'label';
-    const VALID_SINCE = 'validSince';
-    const VALID_UNTIL = 'validUntil';
-    const DEFINITION = 'definition';
-
-    const DEFAULT_LANGUAGE = 'en';
-
-    /**
-     * Vocabulary name in multiple languages.
-     *
-     * @var array
-     */
-    protected array $name = [
-        'en' => 'Mode of learning and assessment',
-    ];
-
-    /**
-     * List of vocabulary items.
-     *
-     * @var array
-     */
-    protected array $list;
-
-    /**
-     * Constructs the object.
-     */
-    public function __construct()
-    {
-        $this->list = static::list();
-    }
+    protected const NAME = 'Mode of learning and assessment';
 
     /**
      * Get vocabulary name.
      *
-     * Returns the name of the vocabulary in the specified language.
+     * Returns the name of the ELM controlled vocabulary.
      *
-     * @param string $language Language of the vocabulary name
-     *
-     * @return string|null
+     * @return string
      **/
-    public function getName(string $language = 'en'): ?string
+    public function getName(): string
     {
-        return $this->name[$language] ?? null;
+        return self::NAME;
     }
 
     /**
-     * Get labeled list.
+     * Get vocabulary.
      *
-     * Returns a list of items labeled in the specified language.
-     * Items are indexed by their vocabulary key.
-     * If the label is missing, the key is used as the label.
+     * Returns the content of the controlled vocabulary.
      *
-     * @param string $language Language of the labels
-     *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
-    public function getLabeledList(string $language = self::DEFAULT_LANGUAGE): array
+    public function getVocabulary(): array
     {
-        $labeledList = [];
-
-        foreach ($this->list as $key => $value) {
-            $labeledList[$key] = $value[self::LABEL][$language] ?? $key;
-        }
-
-        return $labeledList;
-    }
-
-    /**
-     * Key exists.
-     *
-     * Checks whether a key exists in the vocabulary.
-     *
-     * @param string $key The key to check
-     *
-     * @return bool
-     **/
-    public function keyExists(string $key): bool
-    {
-        return (array_key_exists($key, $this->list));
-    }
-
-    /**
-     * Get vocabulary item.
-     *
-     * Retrieves a single item from the vocabulary based on its key.
-     *
-     * @param string $key The key of the item to retrieve.
-     *
-     * @return array|null
-     **/
-    public function get(string $key): ?array
-    {
-        return $this->list[$key] ?? null;
+        return static::list();
     }
 
     /**
@@ -109,68 +40,53 @@ final class ModeOfLearningAndAssessment implements ControlledVocabularyInterface
      *
      * Returns the content of the controlled vocabulary.
      *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
     public static function list(): array
     {
         return [
             '729f3bed4b' => [
-                self::LABEL => [
-                    'en' => 'Workbased',
-                ],
+                self::LABEL => 'Workbased',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '7813801c77' => [
-                self::LABEL => [
-                    'en' => 'Project based',
-                ],
+                self::LABEL => 'Project based',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '9191af2ed9' => [
-                self::LABEL => [
-                    'en' => 'Presential',
-                ],
+                self::LABEL => 'Presential',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '920fbb3cbe' => [
-                self::LABEL => [
-                    'en' => 'Online',
-                ],
+                self::LABEL => 'Online',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'c_3a90b26d' => [
-                self::LABEL => [
-                    'en' => 'Hybrid',
-                ],
+                self::LABEL => 'Hybrid',
                 self::VALID_SINCE => null,
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'e92d221e4d' => [
-                self::LABEL => [
-                    'en' => 'Blended',
-                ],
+                self::LABEL => 'Blended',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'ed4c557045' => [
-                self::LABEL => [
-                    'en' => 'Research-Lab based',
-                ],
+                self::LABEL => 'Research-Lab based',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
         ];
     }
-
 }

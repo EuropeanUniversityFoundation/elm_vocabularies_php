@@ -7,101 +7,32 @@ namespace Elm;
  *
  * @link https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://data.europa.eu/snb/learning-activity/25831c2
  */
-final class LearningActivityType implements ControlledVocabularyInterface
+final class LearningActivityType extends ControlledVocabulary
 {
-    const LABEL = 'label';
-    const VALID_SINCE = 'validSince';
-    const VALID_UNTIL = 'validUntil';
-    const DEFINITION = 'definition';
-
-    const DEFAULT_LANGUAGE = 'en';
-
-    /**
-     * Vocabulary name in multiple languages.
-     *
-     * @var array
-     */
-    protected array $name = [
-        'en' => 'Learning activity type',
-    ];
-
-    /**
-     * List of vocabulary items.
-     *
-     * @var array
-     */
-    protected array $list;
-
-    /**
-     * Constructs the object.
-     */
-    public function __construct()
-    {
-        $this->list = static::list();
-    }
+    protected const NAME = 'Learning activity type';
 
     /**
      * Get vocabulary name.
      *
-     * Returns the name of the vocabulary in the specified language.
+     * Returns the name of the ELM controlled vocabulary.
      *
-     * @param string $language Language of the vocabulary name
-     *
-     * @return string|null
+     * @return string
      **/
-    public function getName(string $language = 'en'): ?string
+    public function getName(): string
     {
-        return $this->name[$language] ?? null;
+        return self::NAME;
     }
 
     /**
-     * Get labeled list.
+     * Get vocabulary.
      *
-     * Returns a list of items labeled in the specified language.
-     * Items are indexed by their vocabulary key.
-     * If the label is missing, the key is used as the label.
+     * Returns the content of the controlled vocabulary.
      *
-     * @param string $language Language of the labels
-     *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
-    public function getLabeledList(string $language = self::DEFAULT_LANGUAGE): array
+    public function getVocabulary(): array
     {
-        $labeledList = [];
-
-        foreach ($this->list as $key => $value) {
-            $labeledList[$key] = $value[self::LABEL][$language] ?? $key;
-        }
-
-        return $labeledList;
-    }
-
-    /**
-     * Key exists.
-     *
-     * Checks whether a key exists in the vocabulary.
-     *
-     * @param string $key The key to check
-     *
-     * @return bool
-     **/
-    public function keyExists(string $key): bool
-    {
-        return (array_key_exists($key, $this->list));
-    }
-
-    /**
-     * Get vocabulary item.
-     *
-     * Retrieves a single item from the vocabulary based on its key.
-     *
-     * @param string $key The key of the item to retrieve.
-     *
-     * @return array|null
-     **/
-    public function get(string $key): ?array
-    {
-        return $this->list[$key] ?? null;
+        return static::list();
     }
 
     /**
@@ -109,108 +40,83 @@ final class LearningActivityType implements ControlledVocabularyInterface
      *
      * Returns the content of the controlled vocabulary.
      *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
     public static function list(): array
     {
         return [
             '3c8bd58d62' => [
-                self::LABEL => [
-                    'en' => 'lab / simulation / practice coursework',
-                ],
+                self::LABEL => 'lab / simulation / practice coursework',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '4357e0e681' => [
-                self::LABEL => [
-                    'en' => 'job experience',
-                ],
+                self::LABEL => 'job experience',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '59eaf34fab' => [
-                self::LABEL => [
-                    'en' => 'volunteering',
-                ],
+                self::LABEL => 'volunteering',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'a7e556215a' => [
-                self::LABEL => [
-                    'en' => 'research',
-                ],
+                self::LABEL => 'research',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'b660f5dcea' => [
-                self::LABEL => [
-                    'en' => 'self-motivated study',
-                ],
+                self::LABEL => 'self-motivated study',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'bf2e3a7bae' => [
-                self::LABEL => [
-                    'en' => 'e-learning coursework',
-                ],
+                self::LABEL => 'e-learning coursework',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'bf5588ff84' => [
-                self::LABEL => [
-                    'en' => 'internship',
-                ],
+                self::LABEL => 'internship',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'c_5665a0ad' => [
-                self::LABEL => [
-                    'en' => 'mentoring and monitoring activity',
-                ],
+                self::LABEL => 'mentoring and monitoring activity',
                 self::VALID_SINCE => null,
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'd46a826a39' => [
-                self::LABEL => [
-                    'en' => 'apprenticeship',
-                ],
+                self::LABEL => 'apprenticeship',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'efff75e10a' => [
-                self::LABEL => [
-                    'en' => 'workshop, seminar or conference',
-                ],
+                self::LABEL => 'workshop, seminar or conference',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'fd33e234ae' => [
-                self::LABEL => [
-                    'en' => 'educational programme',
-                ],
+                self::LABEL => 'educational programme',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'ff436ea7c9' => [
-                self::LABEL => [
-                    'en' => 'classroom coursework',
-                ],
+                self::LABEL => 'classroom coursework',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
         ];
     }
-
 }

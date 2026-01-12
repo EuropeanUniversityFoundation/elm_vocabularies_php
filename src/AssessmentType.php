@@ -7,101 +7,32 @@ namespace Elm;
  *
  * @link https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://data.europa.eu/snb/assessment/25831c2
  */
-final class AssessmentType implements ControlledVocabularyInterface
+final class AssessmentType extends ControlledVocabulary
 {
-    const LABEL = 'label';
-    const VALID_SINCE = 'validSince';
-    const VALID_UNTIL = 'validUntil';
-    const DEFINITION = 'definition';
-
-    const DEFAULT_LANGUAGE = 'en';
-
-    /**
-     * Vocabulary name in multiple languages.
-     *
-     * @var array
-     */
-    protected array $name = [
-        'en' => 'Assessment type',
-    ];
-
-    /**
-     * List of vocabulary items.
-     *
-     * @var array
-     */
-    protected array $list;
-
-    /**
-     * Constructs the object.
-     */
-    public function __construct()
-    {
-        $this->list = static::list();
-    }
+    protected const NAME = 'Assessment type';
 
     /**
      * Get vocabulary name.
      *
-     * Returns the name of the vocabulary in the specified language.
+     * Returns the name of the ELM controlled vocabulary.
      *
-     * @param string $language Language of the vocabulary name
-     *
-     * @return string|null
+     * @return string
      **/
-    public function getName(string $language = 'en'): ?string
+    public function getName(): string
     {
-        return $this->name[$language] ?? null;
+        return self::NAME;
     }
 
     /**
-     * Get labeled list.
+     * Get vocabulary.
      *
-     * Returns a list of items labeled in the specified language.
-     * Items are indexed by their vocabulary key.
-     * If the label is missing, the key is used as the label.
+     * Returns the content of the controlled vocabulary.
      *
-     * @param string $language Language of the labels
-     *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
-    public function getLabeledList(string $language = self::DEFAULT_LANGUAGE): array
+    public function getVocabulary(): array
     {
-        $labeledList = [];
-
-        foreach ($this->list as $key => $value) {
-            $labeledList[$key] = $value[self::LABEL][$language] ?? $key;
-        }
-
-        return $labeledList;
-    }
-
-    /**
-     * Key exists.
-     *
-     * Checks whether a key exists in the vocabulary.
-     *
-     * @param string $key The key to check
-     *
-     * @return bool
-     **/
-    public function keyExists(string $key): bool
-    {
-        return (array_key_exists($key, $this->list));
-    }
-
-    /**
-     * Get vocabulary item.
-     *
-     * Retrieves a single item from the vocabulary based on its key.
-     *
-     * @param string $key The key of the item to retrieve.
-     *
-     * @return array|null
-     **/
-    public function get(string $key): ?array
-    {
-        return $this->list[$key] ?? null;
+        return static::list();
     }
 
     /**
@@ -109,156 +40,113 @@ final class AssessmentType implements ControlledVocabularyInterface
      *
      * Returns the content of the controlled vocabulary.
      *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
     public static function list(): array
     {
         return [
             '19a2e5e671' => [
-                self::LABEL => [
-                    'en' => 'peer assessment',
-                ],
+                self::LABEL => 'peer assessment',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'Peers grade you.',
-                ],
+                self::DEFINITION => 'Peers grade you.',
             ],
             '2939dae15f' => [
-                self::LABEL => [
-                    'en' => 'marked assignment',
-                ],
+                self::LABEL => 'marked assignment',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '3484bd7e51' => [
-                self::LABEL => [
-                    'en' => 'continuous evaluation',
-                ],
+                self::LABEL => 'continuous evaluation',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '4f03b91c0e' => [
-                self::LABEL => [
-                    'en' => 'portfolio',
-                ],
+                self::LABEL => 'portfolio',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '56539a6507' => [
-                self::LABEL => [
-                    'en' => 'group performance',
-                ],
+                self::LABEL => 'group performance',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '6a4db9f11d' => [
-                self::LABEL => [
-                    'en' => 'practical assessment',
-                ],
+                self::LABEL => 'practical assessment',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '6e6cb2cc78' => [
-                self::LABEL => [
-                    'en' => 'written examination',
-                ],
+                self::LABEL => 'written examination',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '7331eb4762' => [
-                self::LABEL => [
-                    'en' => 'level of attendance',
-                ],
+                self::LABEL => 'level of attendance',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '795dac4096' => [
-                self::LABEL => [
-                    'en' => 'project work',
-                ],
+                self::LABEL => 'project work',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '812e3b0ae1' => [
-                self::LABEL => [
-                    'en' => 'peer review',
-                ],
+                self::LABEL => 'peer review',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'Test of presentation and/or synthesis skills. Peers provide feedback, but teacher grades you.',
-                ],
+                self::DEFINITION => 'Test of presentation and/or synthesis skills. Peers provide feedback, but teacher grades you.',
             ],
             'b1b68f6735' => [
-                self::LABEL => [
-                    'en' => 'quiz',
-                ],
+                self::LABEL => 'quiz',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'recall test based on multiple choice entries',
-                ],
+                self::DEFINITION => 'recall test based on multiple choice entries',
             ],
             'c4256a2726' => [
-                self::LABEL => [
-                    'en' => 'problem based learning',
-                ],
+                self::LABEL => 'problem based learning',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'test of practical problem solving skills',
-                ],
+                self::DEFINITION => 'test of practical problem solving skills',
             ],
             'c_04b30a72' => [
-                self::LABEL => [
-                    'en' => 'Presentation',
-                ],
+                self::LABEL => 'Presentation',
                 self::VALID_SINCE => null,
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'c_2b3bd410' => [
-                self::LABEL => [
-                    'en' => 'Self-assessment',
-                ],
+                self::LABEL => 'Self-assessment',
                 self::VALID_SINCE => null,
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'c_4f874951' => [
-                self::LABEL => [
-                    'en' => 'Guided self-assessment',
-                ],
+                self::LABEL => 'Guided self-assessment',
                 self::VALID_SINCE => null,
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'd30284d7df' => [
-                self::LABEL => [
-                    'en' => 'oral examination',
-                ],
+                self::LABEL => 'oral examination',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'de4d165a6c' => [
-                self::LABEL => [
-                    'en' => 'artefact assessment',
-                ],
+                self::LABEL => 'artefact assessment',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
         ];
     }
-
 }

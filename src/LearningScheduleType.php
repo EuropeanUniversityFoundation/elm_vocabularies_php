@@ -7,101 +7,32 @@ namespace Elm;
  *
  * @link https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://data.europa.eu/snb/learning-schedule/25831c2
  */
-final class LearningScheduleType implements ControlledVocabularyInterface
+final class LearningScheduleType extends ControlledVocabulary
 {
-    const LABEL = 'label';
-    const VALID_SINCE = 'validSince';
-    const VALID_UNTIL = 'validUntil';
-    const DEFINITION = 'definition';
-
-    const DEFAULT_LANGUAGE = 'en';
-
-    /**
-     * Vocabulary name in multiple languages.
-     *
-     * @var array
-     */
-    protected array $name = [
-        'en' => 'Learning schedule type',
-    ];
-
-    /**
-     * List of vocabulary items.
-     *
-     * @var array
-     */
-    protected array $list;
-
-    /**
-     * Constructs the object.
-     */
-    public function __construct()
-    {
-        $this->list = static::list();
-    }
+    protected const NAME = 'Learning schedule type';
 
     /**
      * Get vocabulary name.
      *
-     * Returns the name of the vocabulary in the specified language.
+     * Returns the name of the ELM controlled vocabulary.
      *
-     * @param string $language Language of the vocabulary name
-     *
-     * @return string|null
+     * @return string
      **/
-    public function getName(string $language = 'en'): ?string
+    public function getName(): string
     {
-        return $this->name[$language] ?? null;
+        return self::NAME;
     }
 
     /**
-     * Get labeled list.
+     * Get vocabulary.
      *
-     * Returns a list of items labeled in the specified language.
-     * Items are indexed by their vocabulary key.
-     * If the label is missing, the key is used as the label.
+     * Returns the content of the controlled vocabulary.
      *
-     * @param string $language Language of the labels
-     *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
-    public function getLabeledList(string $language = self::DEFAULT_LANGUAGE): array
+    public function getVocabulary(): array
     {
-        $labeledList = [];
-
-        foreach ($this->list as $key => $value) {
-            $labeledList[$key] = $value[self::LABEL][$language] ?? $key;
-        }
-
-        return $labeledList;
-    }
-
-    /**
-     * Key exists.
-     *
-     * Checks whether a key exists in the vocabulary.
-     *
-     * @param string $key The key to check
-     *
-     * @return bool
-     **/
-    public function keyExists(string $key): bool
-    {
-        return (array_key_exists($key, $this->list));
-    }
-
-    /**
-     * Get vocabulary item.
-     *
-     * Retrieves a single item from the vocabulary based on its key.
-     *
-     * @param string $key The key of the item to retrieve.
-     *
-     * @return array|null
-     **/
-    public function get(string $key): ?array
-    {
-        return $this->list[$key] ?? null;
+        return static::list();
     }
 
     /**
@@ -109,42 +40,29 @@ final class LearningScheduleType implements ControlledVocabularyInterface
      *
      * Returns the content of the controlled vocabulary.
      *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
     public static function list(): array
     {
         return [
             '67395e6b5a' => [
-                self::LABEL => [
-                    'en' => 'Part time light',
-                ],
+                self::LABEL => 'Part time light',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'Part time light (less than 8 hours)'
-                ],
+                self::DEFINITION => 'Part time light (less than 8 hours)'
             ],
             '72a0ab92fa' => [
-                self::LABEL => [
-                    'en' => 'Full time',
-                ],
+                self::LABEL => 'Full time',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'Full time (more then 30 hours)'
-                ],
+                self::DEFINITION => 'Full time (more then 30 hours)'
             ],
             'f230bae523' => [
-                self::LABEL => [
-                    'en' => 'Part time intensive',
-                ],
+                self::LABEL => 'Part time intensive',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [
-                    'en' => 'Part time intensive (8 to 30 hours)'
-                ],
+                self::DEFINITION => 'Part time intensive (8 to 30 hours)'
             ],
         ];
     }
-
 }

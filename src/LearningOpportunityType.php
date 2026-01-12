@@ -7,101 +7,32 @@ namespace Elm;
  *
  * @link https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://data.europa.eu/snb/learning-opportunity/25831c2
  */
-final class LearningOpportunityType implements ControlledVocabularyInterface
+final class LearningOpportunityType extends ControlledVocabulary
 {
-    const LABEL = 'label';
-    const VALID_SINCE = 'validSince';
-    const VALID_UNTIL = 'validUntil';
-    const DEFINITION = 'definition';
-
-    const DEFAULT_LANGUAGE = 'en';
-
-    /**
-     * Vocabulary name in multiple languages.
-     *
-     * @var array
-     */
-    protected array $name = [
-        'en' => 'Learning opportunity type',
-    ];
-
-    /**
-     * List of vocabulary items.
-     *
-     * @var array
-     */
-    protected array $list;
-
-    /**
-     * Constructs the object.
-     */
-    public function __construct()
-    {
-        $this->list = static::list();
-    }
+    protected const NAME = 'Learning opportunity type';
 
     /**
      * Get vocabulary name.
      *
-     * Returns the name of the vocabulary in the specified language.
+     * Returns the name of the ELM controlled vocabulary.
      *
-     * @param string $language Language of the vocabulary name
-     *
-     * @return string|null
+     * @return string
      **/
-    public function getName(string $language = 'en'): ?string
+    public function getName(): string
     {
-        return $this->name[$language] ?? null;
+        return self::NAME;
     }
 
     /**
-     * Get labeled list.
+     * Get vocabulary.
      *
-     * Returns a list of items labeled in the specified language.
-     * Items are indexed by their vocabulary key.
-     * If the label is missing, the key is used as the label.
+     * Returns the content of the controlled vocabulary.
      *
-     * @param string $language Language of the labels
-     *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
-    public function getLabeledList(string $language = self::DEFAULT_LANGUAGE): array
+    public function getVocabulary(): array
     {
-        $labeledList = [];
-
-        foreach ($this->list as $key => $value) {
-            $labeledList[$key] = $value[self::LABEL][$language] ?? $key;
-        }
-
-        return $labeledList;
-    }
-
-    /**
-     * Key exists.
-     *
-     * Checks whether a key exists in the vocabulary.
-     *
-     * @param string $key The key to check
-     *
-     * @return bool
-     **/
-    public function keyExists(string $key): bool
-    {
-        return (array_key_exists($key, $this->list));
-    }
-
-    /**
-     * Get vocabulary item.
-     *
-     * Retrieves a single item from the vocabulary based on its key.
-     *
-     * @param string $key The key of the item to retrieve.
-     *
-     * @return array|null
-     **/
-    public function get(string $key): ?array
-    {
-        return $this->list[$key] ?? null;
+        return static::list();
     }
 
     /**
@@ -109,116 +40,89 @@ final class LearningOpportunityType implements ControlledVocabularyInterface
      *
      * Returns the content of the controlled vocabulary.
      *
-     * @return array
+     * @return array<string, array<string, string|null>>
      **/
     public static function list(): array
     {
         return [
             '05053c1cbe' => [
-                self::LABEL => [
-                    'en' => 'Course',
-                ],
+                self::LABEL => 'Course',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '0f7dac46ca' => [
-                self::LABEL => [
-                    'en' => 'Programme module',
-                ],
+                self::LABEL => 'Programme module',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '11252a5207' => [
-                self::LABEL => [
-                    'en' => 'Mentoring',
-                ],
+                self::LABEL => 'Mentoring',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '17744a2647' => [
-                self::LABEL => [
-                    'en' => 'MOOC',
-                ],
+                self::LABEL => 'MOOC',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '63f9f6180c' => [
-                self::LABEL => [
-                    'en' => 'Apprenticeship',
-                ],
+                self::LABEL => 'Apprenticeship',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '65a4cf5de2' => [
-                self::LABEL => [
-                    'en' => 'Study visit',
-                ],
+                self::LABEL => 'Study visit',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '74a4a268e8' => [
-                self::LABEL => [
-                    'en' => 'Short learning programme',
-                ],
+                self::LABEL => 'Short learning programme',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '77b99de990' => [
-                self::LABEL => [
-                    'en' => 'Internship',
-                ],
+                self::LABEL => 'Internship',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '79343569f3' => [
-                self::LABEL => [
-                    'en' => 'Educational programme',
-                ],
+                self::LABEL => 'Educational programme',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '7e1ac538db' => [
-                self::LABEL => [
-                    'en' => 'Class',
-                ],
+                self::LABEL => 'Class',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             '8b965da2d4' => [
-                self::LABEL => [
-                    'en' => 'Service learning',
-                ],
+                self::LABEL => 'Service learning',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'b2434ca358' => [
-                self::LABEL => [
-                    'en' => 'Thesis',
-                ],
+                self::LABEL => 'Thesis',
                 self::VALID_SINCE => '2020-06-24',
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
             'c_170b037d' => [
-                self::LABEL => [
-                    'en' => 'Challenge',
-                ],
+                self::LABEL => 'Challenge',
                 self::VALID_SINCE => null,
                 self::VALID_UNTIL => null,
-                self::DEFINITION => [],
+                self::DEFINITION => null,
             ],
         ];
     }
-
 }
