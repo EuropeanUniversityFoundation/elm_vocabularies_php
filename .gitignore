@@ -5,3 +5,5 @@ composer.lock
 .idea
 .DS_Store
 .ddev
+tmp/*
+!tmp/.gitkeep
