@@ -11,8 +11,6 @@ namespace Elm;
  */
 final class LearningOpportunityType extends ControlledVocabulary
 {
-    protected const NAME = 'Learning opportunity type';
-
     /**
      * Get vocabulary name.
      *
@@ -22,7 +20,7 @@ final class LearningOpportunityType extends ControlledVocabulary
      **/
     public function getName(): string
     {
-        return self::NAME;
+        return 'Learning opportunity type';
     }
 
     /**
@@ -48,82 +46,82 @@ final class LearningOpportunityType extends ControlledVocabulary
     {
         return [
             '05053c1cbe' => [
-                self::LABEL => 'Course',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Course',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '0f7dac46ca' => [
-                self::LABEL => 'Programme module',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Programme module',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '11252a5207' => [
-                self::LABEL => 'Mentoring',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Mentoring',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '17744a2647' => [
-                self::LABEL => 'MOOC',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'MOOC',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '63f9f6180c' => [
-                self::LABEL => 'Apprenticeship',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Apprenticeship',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '65a4cf5de2' => [
-                self::LABEL => 'Study visit',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Study visit',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '74a4a268e8' => [
-                self::LABEL => 'Short learning programme',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Short learning programme',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '77b99de990' => [
-                self::LABEL => 'Internship',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Internship',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '79343569f3' => [
-                self::LABEL => 'Educational programme',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Educational programme',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '7e1ac538db' => [
-                self::LABEL => 'Class',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Class',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '8b965da2d4' => [
-                self::LABEL => 'Service learning',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Service learning',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'b2434ca358' => [
-                self::LABEL => 'Thesis',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Thesis',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'c_170b037d' => [
-                self::LABEL => 'Challenge',
-                self::VALID_SINCE => null,
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Challenge',
+                'validSince' => null,
+                'validUntil' => null,
+                'definition' => null,
             ],
         ];
     }

@@ -11,8 +11,6 @@ namespace Elm;
  */
 final class LearningScheduleType extends ControlledVocabulary
 {
-    protected const NAME = 'Learning schedule type';
-
     /**
      * Get vocabulary name.
      *
@@ -22,7 +20,7 @@ final class LearningScheduleType extends ControlledVocabulary
      **/
     public function getName(): string
     {
-        return self::NAME;
+        return 'Learning schedule type';
     }
 
     /**
@@ -48,22 +46,22 @@ final class LearningScheduleType extends ControlledVocabulary
     {
         return [
             '67395e6b5a' => [
-                self::LABEL => 'Part time light',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'Part time light (less than 8 hours)'
+                'label' => 'Part time light',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'Part time light (less than 8 hours)',
             ],
             '72a0ab92fa' => [
-                self::LABEL => 'Full time',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'Full time (more then 30 hours)'
+                'label' => 'Full time ',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'Full time (more then 30 hours)',
             ],
             'f230bae523' => [
-                self::LABEL => 'Part time intensive',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'Part time intensive (8 to 30 hours)'
+                'label' => 'Part time intensive ',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'Part time intensive (8 to 30 hours)',
             ],
         ];
     }

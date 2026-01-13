@@ -11,8 +11,6 @@ namespace Elm;
  */
 final class AssessmentType extends ControlledVocabulary
 {
-    protected const NAME = 'Assessment type';
-
     /**
      * Get vocabulary name.
      *
@@ -22,7 +20,7 @@ final class AssessmentType extends ControlledVocabulary
      **/
     public function getName(): string
     {
-        return self::NAME;
+        return 'Assessment type';
     }
 
     /**
@@ -48,106 +46,106 @@ final class AssessmentType extends ControlledVocabulary
     {
         return [
             '19a2e5e671' => [
-                self::LABEL => 'peer assessment',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'Peers grade you.',
+                'label' => 'peer assessment',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'Peers grade you.',
             ],
             '2939dae15f' => [
-                self::LABEL => 'marked assignment',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'marked assignment',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '3484bd7e51' => [
-                self::LABEL => 'continuous evaluation',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'continuous evaluation',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '4f03b91c0e' => [
-                self::LABEL => 'portfolio',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'portfolio',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '56539a6507' => [
-                self::LABEL => 'group performance',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'group performance',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '6a4db9f11d' => [
-                self::LABEL => 'practical assessment',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'practical assessment',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '6e6cb2cc78' => [
-                self::LABEL => 'written examination',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'written examination',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '7331eb4762' => [
-                self::LABEL => 'level of attendance',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'level of attendance',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '795dac4096' => [
-                self::LABEL => 'project work',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'project work',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '812e3b0ae1' => [
-                self::LABEL => 'peer review',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'Test of presentation and/or synthesis skills. Peers provide feedback, but teacher grades you.',
+                'label' => 'peer review',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'test of presentation and/or synthesis skills',
             ],
             'b1b68f6735' => [
-                self::LABEL => 'quiz',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'recall test based on multiple choice entries',
+                'label' => 'quiz',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'recall test based on multiple choice entries',
             ],
             'c4256a2726' => [
-                self::LABEL => 'problem based learning',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => 'test of practical problem solving skills',
-            ],
-            'c_04b30a72' => [
-                self::LABEL => 'Presentation',
-                self::VALID_SINCE => null,
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
-            ],
-            'c_2b3bd410' => [
-                self::LABEL => 'Self-assessment',
-                self::VALID_SINCE => null,
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
-            ],
-            'c_4f874951' => [
-                self::LABEL => 'Guided self-assessment',
-                self::VALID_SINCE => null,
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'problem based learning',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => 'test of practical problem solving skills',
             ],
             'd30284d7df' => [
-                self::LABEL => 'oral examination',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'oral examination',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'de4d165a6c' => [
-                self::LABEL => 'artefact assessment',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'artefact assessment',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
+            ],
+            'c_04b30a72' => [
+                'label' => 'Presentation',
+                'validSince' => null,
+                'validUntil' => null,
+                'definition' => null,
+            ],
+            'c_2b3bd410' => [
+                'label' => 'Self-assessment',
+                'validSince' => null,
+                'validUntil' => null,
+                'definition' => null,
+            ],
+            'c_4f874951' => [
+                'label' => 'Guided self-assessment',
+                'validSince' => null,
+                'validUntil' => null,
+                'definition' => null,
             ],
         ];
     }

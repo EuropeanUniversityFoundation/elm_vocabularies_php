@@ -11,8 +11,6 @@ namespace Elm;
  */
 final class ModeOfLearningAndAssessment extends ControlledVocabulary
 {
-    protected const NAME = 'Mode of learning and assessment';
-
     /**
      * Get vocabulary name.
      *
@@ -22,7 +20,7 @@ final class ModeOfLearningAndAssessment extends ControlledVocabulary
      **/
     public function getName(): string
     {
-        return self::NAME;
+        return 'Mode of learning and assessment';
     }
 
     /**
@@ -48,46 +46,46 @@ final class ModeOfLearningAndAssessment extends ControlledVocabulary
     {
         return [
             '729f3bed4b' => [
-                self::LABEL => 'Workbased',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Workbased',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '7813801c77' => [
-                self::LABEL => 'Project based',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Project based',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '9191af2ed9' => [
-                self::LABEL => 'Presential',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Presential',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '920fbb3cbe' => [
-                self::LABEL => 'Online',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
-            ],
-            'c_3a90b26d' => [
-                self::LABEL => 'Hybrid',
-                self::VALID_SINCE => null,
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Online',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'e92d221e4d' => [
-                self::LABEL => 'Blended',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Blended',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'ed4c557045' => [
-                self::LABEL => 'Research-Lab based',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'Research-Lab based',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
+            ],
+            'c_3a90b26d' => [
+                'label' => 'Hybrid',
+                'validSince' => null,
+                'validUntil' => null,
+                'definition' => null,
             ],
         ];
     }

@@ -11,8 +11,6 @@ namespace Elm;
  */
 final class LearningActivityType extends ControlledVocabulary
 {
-    protected const NAME = 'Learning activity type';
-
     /**
      * Get vocabulary name.
      *
@@ -22,7 +20,7 @@ final class LearningActivityType extends ControlledVocabulary
      **/
     public function getName(): string
     {
-        return self::NAME;
+        return 'Learning activity type';
     }
 
     /**
@@ -48,76 +46,76 @@ final class LearningActivityType extends ControlledVocabulary
     {
         return [
             '3c8bd58d62' => [
-                self::LABEL => 'lab / simulation / practice coursework',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'lab / simulation / practice coursework',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '4357e0e681' => [
-                self::LABEL => 'job experience',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'job experience',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             '59eaf34fab' => [
-                self::LABEL => 'volunteering',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'volunteering',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'a7e556215a' => [
-                self::LABEL => 'research',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'research',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'b660f5dcea' => [
-                self::LABEL => 'self-motivated study',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'self-motivated study',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'bf2e3a7bae' => [
-                self::LABEL => 'e-learning coursework',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'e-learning coursework',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'bf5588ff84' => [
-                self::LABEL => 'internship',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
-            ],
-            'c_5665a0ad' => [
-                self::LABEL => 'mentoring and monitoring activity',
-                self::VALID_SINCE => null,
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'internship',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'd46a826a39' => [
-                self::LABEL => 'apprenticeship',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'apprenticeship',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'efff75e10a' => [
-                self::LABEL => 'workshop, seminar or conference',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'workshop, seminar or conference',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'fd33e234ae' => [
-                self::LABEL => 'educational programme',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'educational programme',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
             ],
             'ff436ea7c9' => [
-                self::LABEL => 'classroom coursework',
-                self::VALID_SINCE => '2020-06-24',
-                self::VALID_UNTIL => null,
-                self::DEFINITION => null,
+                'label' => 'classroom coursework',
+                'validSince' => '2020-06-24',
+                'validUntil' => null,
+                'definition' => null,
+            ],
+            'c_5665a0ad' => [
+                'label' => 'mentoring and monitoring activity',
+                'validSince' => null,
+                'validUntil' => null,
+                'definition' => null,
             ],
         ];
     }
