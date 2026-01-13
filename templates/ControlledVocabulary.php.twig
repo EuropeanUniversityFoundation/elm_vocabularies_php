@@ -1,0 +1,49 @@
+<?php
+
+declare(strict_types=1);
+
+namespace Elm;
+
+/**
+ * Provides the '{{ name }}' controlled vocabulary.
+ *
+ * @link https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri={{ uri }}
+ */
+final class {{ class }} extends ControlledVocabulary
+{
+    /**
+     * Get vocabulary name.
+     *
+     * Returns the name of the ELM controlled vocabulary.
+     *
+     * @return string
+     **/
+    public function getName(): string
+    {
+        return '{{ name }}';
+    }
+
+    /**
+     * Get vocabulary.
+     *
+     * Returns the content of the controlled vocabulary.
+     *
+     * @return array<string, array<string, string|null>>
+     **/
+    public function getVocabulary(): array
+    {
+        return static::list();
+    }
+
+    /**
+     * Curated vocabulary.
+     *
+     * Returns the content of the controlled vocabulary.
+     *
+     * @return array<string, array<string, string|null>>
+     **/
+    public static function list(): array
+    {
+        return {{ vocabulary }};
+    }
+}
