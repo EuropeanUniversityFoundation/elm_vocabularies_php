@@ -10,6 +10,11 @@ use EasyRdf\RdfNamespace;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 
+$loader = new FilesystemLoader(__DIR__ . '/templates');
+$twig = new Environment($loader, [
+    'autoescape' => false,
+]);
+
 RdfNamespace::set('dc', 'http://purl.org/dc/elements/1.1/');
 RdfNamespace::set('ns5', 'http://publications.europa.eu/ontology/euvoc#');
 RdfNamespace::set('skos', 'http://www.w3.org/2004/02/skos/core#');
@@ -98,12 +103,7 @@ foreach ($vocabularies as $class => $path) {
         ];
     }
 
-    $loader = new FilesystemLoader(__DIR__ . '/templates');
-    $twig = new Environment($loader, [
-        'autoescape' => false,
-    ]);
-
-    $data = [
+    $twigData = [
         'name' => $tree['labels']['en'],
         'class' => $class,
         'uri' => $topConcept->getUri(),
@@ -114,6 +114,6 @@ foreach ($vocabularies as $class => $path) {
         )
     ];
 
-    $content = $twig->render('ControlledVocabulary.php.twig', $data);
+    $content = $twig->render('TemplateVocabulary.php.twig', $twigData);
     file_put_contents(__DIR__ . '/src/' . $class . '.php', $content);
 }
