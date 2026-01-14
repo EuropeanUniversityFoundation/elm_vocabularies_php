@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in French.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+
+msgid "Learning setting type"
+msgstr "Type de cadre d’apprentissage"
+
+msgid "formal learning"
+msgstr "Apprentissage formel"
+
+msgid "non-formal learning"
+msgstr "Apprentissage non formel"

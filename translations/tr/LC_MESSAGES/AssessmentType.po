@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Turkish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "Assessment type"
+msgstr "Değerlendirme Tipi"
+
+msgid "peer assessment"
+msgstr "Akran değerlendirmesi"
+
+msgid "Peers grade you."
+msgstr "Akranlar sizi derecelendirir."
+
+msgid "marked assignment"
+msgstr "Not verilmiş ödev"
+
+msgid "continuous evaluation"
+msgstr "Sürekli değerlendirme"
+
+msgid "portfolio"
+msgstr "Portföy"
+
+msgid "group performance"
+msgstr "Grup performansı"
+
+msgid "practical assessment"
+msgstr "Uygulama değerlendirme"
+
+msgid "written examination"
+msgstr "Yazılı sınav"
+
+msgid "level of attendance"
+msgstr "Katılım düzeyi"
+
+msgid "project work"
+msgstr "Proje çalışması"
+
+msgid "peer review"
+msgstr "Akran değerlendirmesi"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Sunum veya sentez becerilerinin testi. Akranlar geri bildirim sağlar, ancak öğretmen sizi derecelendirir."
+
+msgid "quiz"
+msgstr "Ara sınav"
+
+msgid "problem based learning"
+msgstr "Problem odaklı öğrenme"
+
+msgid "oral examination"
+msgstr "Sözlü sınav"
+
+msgid "artefact assessment"
+msgstr "Eser (artefact) değerlendirmesi"
+
+msgid "Presentation"
+msgstr "Sunum"

@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Polish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl\n"
+
+msgid "Learning schedule type"
+msgstr "Rodzaj harmonogramu nauki"
+
+msgid "Part time light"
+msgstr "Niepełny wymiar godzin – zajęcia nieintensywne"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Niepełny wymiar godzin (mniej niż 8 godzin)"
+
+msgid "Full time "
+msgstr "Pełny wymiar godzin"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Pełny wymiar godzin (więcej niż 30 godzin)"
+
+msgid "Part time intensive "
+msgstr "Niepełny wymiar godzin – zajęcia intensywne"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Niepełny wymiar godzin (od 8 do 30 godzin)"

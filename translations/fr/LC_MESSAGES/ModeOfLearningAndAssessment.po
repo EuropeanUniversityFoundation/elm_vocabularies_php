@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in French.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Mode d’apprentissage et d’évaluation"
+
+msgid "Workbased"
+msgstr "Fondé sur des travaux"
+
+msgid "Project based"
+msgstr "Fondé sur un projet"
+
+msgid "Presential"
+msgstr "Présentiel"
+
+msgid "Online"
+msgstr "En ligne"
+
+msgid "Blended"
+msgstr "Mixte"
+
+msgid "Research-Lab based"
+msgstr "Fondé sur des recherches en laboratoire"
+
+msgid "Hybrid"
+msgstr "Hybride"

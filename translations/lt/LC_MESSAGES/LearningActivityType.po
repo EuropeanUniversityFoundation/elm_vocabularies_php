@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Lithuanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lt\n"
+
+msgid "Learning activity type"
+msgstr "Mokymosi veiklos tipas"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratoriniai / imitaciniai / praktiniai užsiėmimai"
+
+msgid "job experience"
+msgstr "Darbo patirtis"
+
+msgid "volunteering"
+msgstr "Savanoriška veikla"
+
+msgid "research"
+msgstr "Tyrimai"
+
+msgid "self-motivated study"
+msgstr "Savarankiškas mokymasis"
+
+msgid "e-learning coursework"
+msgstr "E. mokymo kursai"
+
+msgid "internship"
+msgstr "Stažuotė"
+
+msgid "apprenticeship"
+msgstr "Pameistrystė"
+
+msgid "workshop, seminar or conference"
+msgstr "Praktinis užsiėmimas, seminaras arba konferencija"
+
+msgid "educational programme"
+msgstr "Mokymo programa"
+
+msgid "classroom coursework"
+msgstr "Pamokos klasėje"
+
+msgid "mentoring and monitoring activity"
+msgstr "kuravimo ir stebėsenos veikla"

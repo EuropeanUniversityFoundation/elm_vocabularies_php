@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Estonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: et\n"
+
+msgid "Learning setting type"
+msgstr "Õpikeskkonna liik"
+
+msgid "formal learning"
+msgstr "Formaalõpe"
+
+msgid "non-formal learning"
+msgstr "Mitteformaalne õpe"

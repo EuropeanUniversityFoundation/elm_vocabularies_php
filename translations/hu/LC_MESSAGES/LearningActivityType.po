@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Hungarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu\n"
+
+msgid "Learning activity type"
+msgstr "A tanulási tevékenység típusa"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratóriumi óra/szimuláció/gyakorlati óra"
+
+msgid "job experience"
+msgstr "Szakmai tapasztalat"
+
+msgid "volunteering"
+msgstr "Önkéntes munka"
+
+msgid "research"
+msgstr "Kutatás"
+
+msgid "self-motivated study"
+msgstr "Egyéni tanulás"
+
+msgid "e-learning coursework"
+msgstr "E-tanóra"
+
+msgid "internship"
+msgstr "Szakmai gyakorlat"
+
+msgid "apprenticeship"
+msgstr "Tanulószerződéses gyakorlati képzés"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, szeminárium vagy konferencia"
+
+msgid "educational programme"
+msgstr "Oktatási program"
+
+msgid "classroom coursework"
+msgstr "Tantermi óra"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorálási és nyomonkövetési tevékenység"

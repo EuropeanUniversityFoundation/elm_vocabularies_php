@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Romanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro\n"
+
+msgid "Assessment type"
+msgstr "Tip de evaluare"
+
+msgid "peer assessment"
+msgstr "Evaluare inter pares"
+
+msgid "Peers grade you."
+msgstr "Colegii vă notează."
+
+msgid "marked assignment"
+msgstr "Lucrare notată"
+
+msgid "continuous evaluation"
+msgstr "Evaluare continuă"
+
+msgid "portfolio"
+msgstr "Portofoliu"
+
+msgid "group performance"
+msgstr "Prezentare de grup"
+
+msgid "practical assessment"
+msgstr "Evaluare practică"
+
+msgid "written examination"
+msgstr "Examinare scrisă"
+
+msgid "level of attendance"
+msgstr "Nivelul de participare"
+
+msgid "project work"
+msgstr "Proiect"
+
+msgid "peer review"
+msgstr "Evaluare inter pares"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test de evaluare a aptitudinilor de prezentare sau sinteză. Colegii oferă feedback, dar profesorul vă notează."
+
+msgid "quiz"
+msgstr "Quiz"
+
+msgid "problem based learning"
+msgstr "Învățare bazată pe probleme"
+
+msgid "oral examination"
+msgstr "Examinare orală"
+
+msgid "artefact assessment"
+msgstr "Evaluarea unui obiect"
+
+msgid "Presentation"
+msgstr "Prezentare"

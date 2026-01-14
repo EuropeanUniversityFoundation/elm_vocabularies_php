@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Latvian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lv\n"
+
+msgid "Learning activity type"
+msgstr "Mācību aktivitātes veids"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorijas darbs / simulācija / praktiskais darbs"
+
+msgid "job experience"
+msgstr "Darba pieredze"
+
+msgid "volunteering"
+msgstr "Brīvprātīgais darbs"
+
+msgid "research"
+msgstr "Pētniecība"
+
+msgid "self-motivated study"
+msgstr "Patstāvīgais darbs"
+
+msgid "e-learning coursework"
+msgstr "E-mācību kurss"
+
+msgid "internship"
+msgstr "Stažēšanās"
+
+msgid "apprenticeship"
+msgstr "Māceklība"
+
+msgid "workshop, seminar or conference"
+msgstr "Darbseminārs, seminārs vai konference"
+
+msgid "educational programme"
+msgstr "Izglītības programma"
+
+msgid "classroom coursework"
+msgstr "Darbs klasē"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorēšana un novērošana"

@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Danish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: da\n"
+
+msgid "Learning opportunity type"
+msgstr "Type læringsmulighed"
+
+msgid "Course"
+msgstr "Kursus"
+
+msgid "Programme module"
+msgstr "Programmodul"
+
+msgid "Mentoring"
+msgstr "Mentorordninger"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Læreplads"
+
+msgid "Study visit"
+msgstr "Studiebesøg"
+
+msgid "Short learning programme"
+msgstr "Kortvarigt læringsprogram"
+
+msgid "Internship"
+msgstr "Praktikplads"
+
+msgid "Educational programme"
+msgstr "Uddannelsesprogram"
+
+msgid "Class"
+msgstr "Klasse"
+
+msgid "Service learning"
+msgstr "Undervisningstjeneste"
+
+msgid "Thesis"
+msgstr "Speciale"
+
+msgid "Challenge"
+msgstr "Udfordring"

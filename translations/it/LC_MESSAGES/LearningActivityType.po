@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Italian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+
+msgid "Learning activity type"
+msgstr "Tipo di attività di apprendimento"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Attività in laboratorio/simulazione/esercitazione"
+
+msgid "job experience"
+msgstr "Esperienza lavorativa"
+
+msgid "volunteering"
+msgstr "Volontariato"
+
+msgid "research"
+msgstr "Ricerca"
+
+msgid "self-motivated study"
+msgstr "Studio autonomo"
+
+msgid "e-learning coursework"
+msgstr "Corso online"
+
+msgid "internship"
+msgstr "Tirocinio"
+
+msgid "apprenticeship"
+msgstr "Apprendistato"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminario o conferenza"
+
+msgid "educational programme"
+msgstr "Programma di istruzione"
+
+msgid "classroom coursework"
+msgstr "Attività in classe"
+
+msgid "mentoring and monitoring activity"
+msgstr "attività di tutoraggio e monitoraggio"

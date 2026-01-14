@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Latvian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lv\n"
+
+msgid "Assessment type"
+msgstr "Novērtējuma veids"
+
+msgid "peer assessment"
+msgstr "Salīdzinošais novērtējums"
+
+msgid "Peers grade you."
+msgstr "Jūs vērtē citi apmācības dalībnieki."
+
+msgid "marked assignment"
+msgstr "Ar atzīmi vērtēts uzdevums"
+
+msgid "continuous evaluation"
+msgstr "Pastāvīga vērtēšana"
+
+msgid "portfolio"
+msgstr "Portfolio novērtējums"
+
+msgid "group performance"
+msgstr "Grupas darbs"
+
+msgid "practical assessment"
+msgstr "Praktisks novērtējums"
+
+msgid "written examination"
+msgstr "Rakstisks eksāmens"
+
+msgid "level of attendance"
+msgstr "Apmeklējuma līmenis"
+
+msgid "project work"
+msgstr "Projekta izstrāde"
+
+msgid "peer review"
+msgstr "Profesionālapskate"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Prezentēšanas vai informācijas vispārināšanas prasmju pārbaude. Citi apmācības dalībnieki sniedz atgriezenisko saiti, bet jūs novērtē skolotājs."
+
+msgid "quiz"
+msgstr "Kontroldarbs"
+
+msgid "problem based learning"
+msgstr "Mācīšanās, kuras pamatā ir problēmas risināšana"
+
+msgid "oral examination"
+msgstr "Mutisks eksāmens"
+
+msgid "artefact assessment"
+msgstr "Objekta novērtējums"
+
+msgid "Presentation"
+msgstr "Prezentācija"

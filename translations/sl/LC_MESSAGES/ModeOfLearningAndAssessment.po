@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Slovenian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sl\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Način učenja in ocenjevanja"
+
+msgid "Workbased"
+msgstr "Na podlagi dela"
+
+msgid "Project based"
+msgstr "Na podlagi projekta"
+
+msgid "Presential"
+msgstr "Splošni"
+
+msgid "Online"
+msgstr "Spletni"
+
+msgid "Blended"
+msgstr "Mešani"
+
+msgid "Research-Lab based"
+msgstr "Na podlagi raziskav/laboratorijskih preskusov"
+
+msgid "Hybrid"
+msgstr "Hibridno"

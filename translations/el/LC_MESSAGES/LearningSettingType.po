@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Greek.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el\n"
+
+msgid "Learning setting type"
+msgstr "Τύπος περιβάλλοντος μάθησης"
+
+msgid "formal learning"
+msgstr "Τυπική μάθηση"
+
+msgid "non-formal learning"
+msgstr "Μη τυπική μάθηση"

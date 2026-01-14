@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Maltese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mt\n"
+
+msgid "Learning schedule type"
+msgstr "Tip tal-iskeda tal-apprendiment"
+
+msgid "Part time light"
+msgstr "Part time mhux intensiv"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Part time mhux intensiv (inqas minn 8 sigħat)"
+
+msgid "Full time "
+msgstr "Full time"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Full time (iktar minn 30 siegħa)"
+
+msgid "Part time intensive "
+msgstr "Part time intensiv"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Part time intensiv (minn 8 sa 30 siegħa)"

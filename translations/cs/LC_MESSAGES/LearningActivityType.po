@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Czech.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+
+msgid "Learning activity type"
+msgstr "Typ vzdělávací aktivity"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorní práce/simulace/praxe"
+
+msgid "job experience"
+msgstr "Pracovní zkušenost"
+
+msgid "volunteering"
+msgstr "Dobrovolnictví"
+
+msgid "research"
+msgstr "Výzkum"
+
+msgid "self-motivated study"
+msgstr "Samostatné studium"
+
+msgid "e-learning coursework"
+msgstr "E-learningový kurz"
+
+msgid "internship"
+msgstr "Praxe a stáže"
+
+msgid "apprenticeship"
+msgstr "Učňovská příprava"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminář nebo konference"
+
+msgid "educational programme"
+msgstr "Vzdělávací program"
+
+msgid "classroom coursework"
+msgstr "Celoroční práce"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorská a monitorovací činnost"

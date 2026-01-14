@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Czech.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Způsob učení a hodnocení"
+
+msgid "Workbased"
+msgstr "Učení se prací"
+
+msgid "Project based"
+msgstr "V rámci realizace projektu"
+
+msgid "Presential"
+msgstr "Prezenční"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Smíšené"
+
+msgid "Research-Lab based"
+msgstr "V rámci (laboratorního) výzkumu"
+
+msgid "Hybrid"
+msgstr "Hybridní"

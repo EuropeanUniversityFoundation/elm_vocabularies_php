@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Danish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: da\n"
+
+msgid "Learning activity type"
+msgstr "Type læringsaktivitet"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorie-/simulerings-/praktisk kursus"
+
+msgid "job experience"
+msgstr "Erhvervserfaring"
+
+msgid "volunteering"
+msgstr "Frivilligt arbejde"
+
+msgid "research"
+msgstr "Forskning"
+
+msgid "self-motivated study"
+msgstr "Selvstudie"
+
+msgid "e-learning coursework"
+msgstr "E-læringskursus"
+
+msgid "internship"
+msgstr "Praktikplads"
+
+msgid "apprenticeship"
+msgstr "Læreplads"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminar eller konference"
+
+msgid "educational programme"
+msgstr "Uddannelsesprogram"
+
+msgid "classroom coursework"
+msgstr "Klasseundervisning"
+
+msgid "mentoring and monitoring activity"
+msgstr "Mentorhjælp og overvågning"

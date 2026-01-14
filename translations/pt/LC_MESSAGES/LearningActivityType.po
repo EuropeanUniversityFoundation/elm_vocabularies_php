@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Portuguese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt\n"
+
+msgid "Learning activity type"
+msgstr "Tipo de atividade de aprendizagem"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratório/simulação/trabalho prático"
+
+msgid "job experience"
+msgstr "Experiência profissional"
+
+msgid "volunteering"
+msgstr "Voluntariado"
+
+msgid "research"
+msgstr "Investigação"
+
+msgid "self-motivated study"
+msgstr "Estudo individual"
+
+msgid "e-learning coursework"
+msgstr "Cursos de aprendizagem em linha"
+
+msgid "internship"
+msgstr "Estágio"
+
+msgid "apprenticeship"
+msgstr "Aprendizagem"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminário ou conferência"
+
+msgid "educational programme"
+msgstr "Programa educativo"
+
+msgid "classroom coursework"
+msgstr "Aulas letivas presenciais"
+
+msgid "mentoring and monitoring activity"
+msgstr "atividade de mentoria e acompanhamento"

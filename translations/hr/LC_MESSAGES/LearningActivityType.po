@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Croatian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hr\n"
+
+msgid "Learning activity type"
+msgstr "Vrsta aktivnosti učenja"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Rad u laboratoriju / simulacijski/praktični rad"
+
+msgid "job experience"
+msgstr "Radno iskustvo"
+
+msgid "volunteering"
+msgstr "Volontiranje"
+
+msgid "research"
+msgstr "Istraživanje"
+
+msgid "self-motivated study"
+msgstr "Samostalno učenje"
+
+msgid "e-learning coursework"
+msgstr "Rad u okviru e-učenja"
+
+msgid "internship"
+msgstr "Stažiranje"
+
+msgid "apprenticeship"
+msgstr "Naukovanje"
+
+msgid "workshop, seminar or conference"
+msgstr "Radionica, seminar ili konferencija"
+
+msgid "educational programme"
+msgstr "Obrazovni program"
+
+msgid "classroom coursework"
+msgstr "Rad u učionici"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorstvo i praćenje"

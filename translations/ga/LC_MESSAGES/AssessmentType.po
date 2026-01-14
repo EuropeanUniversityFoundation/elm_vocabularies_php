@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Irish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ga\n"
+
+msgid "Assessment type"
+msgstr "Cineál Measúnaithe"
+
+msgid "peer assessment"
+msgstr "Measúnú piaraí"
+
+msgid "Peers grade you."
+msgstr "Is iad do phiaraí a dhéanann grádú."
+
+msgid "marked assignment"
+msgstr "Tasc marcáilte"
+
+msgid "continuous evaluation"
+msgstr "Meastóireacht leanúnach"
+
+msgid "portfolio"
+msgstr "Portfóilió"
+
+msgid "group performance"
+msgstr "Feidhmiú grúpa"
+
+msgid "practical assessment"
+msgstr "Measúnú praiticiúil"
+
+msgid "written examination"
+msgstr "Scrúdú scríofa"
+
+msgid "level of attendance"
+msgstr "Leibhéal freastail"
+
+msgid "project work"
+msgstr "Obair thionscadail"
+
+msgid "peer review"
+msgstr "Athbhreithniú piaraí"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Tástáil ar scileanna cur i láthair nó sintéise. Cuireann piaraí aiseolas ar fáil, ach is é an múinteoir a dhéanann grádú."
+
+msgid "quiz"
+msgstr "Tráth na gceist"
+
+msgid "problem based learning"
+msgstr "Foghlaim bunaithe ar fhadhbanna"
+
+msgid "oral examination"
+msgstr "Scrúdú béil"
+
+msgid "artefact assessment"
+msgstr "Measúnú déantáin"
+
+msgid "Presentation"
+msgstr "Cur i láthair"

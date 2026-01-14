@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Polish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Sposób nauki i ocena"
+
+msgid "Workbased"
+msgstr "Oparte na pracy"
+
+msgid "Project based"
+msgstr "Oparte na projektach"
+
+msgid "Presential"
+msgstr "Stacjonarne"
+
+msgid "Online"
+msgstr "Online (przez internet)"
+
+msgid "Blended"
+msgstr "Mieszane"
+
+msgid "Research-Lab based"
+msgstr "Oparte na pracy w laboratoriach badawczych"
+
+msgid "Hybrid"
+msgstr "Wizyta w trybie hybrydowym"

@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Bulgarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Learning activity type"
+msgstr "Вид на учебната дейност"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Лабораторен / симулационен / практически курс"
+
+msgid "job experience"
+msgstr "Трудов стаж"
+
+msgid "volunteering"
+msgstr "Доброволческа дейност"
+
+msgid "research"
+msgstr "Изследователска дейност"
+
+msgid "self-motivated study"
+msgstr "Самообучение"
+
+msgid "e-learning coursework"
+msgstr "Курс за електронно обучение"
+
+msgid "internship"
+msgstr "Стаж"
+
+msgid "apprenticeship"
+msgstr "Чиракуване"
+
+msgid "workshop, seminar or conference"
+msgstr "Ателие, семинар или конференция"
+
+msgid "educational programme"
+msgstr "Образователна програма"
+
+msgid "classroom coursework"
+msgstr "Курс в класна стая"
+
+msgid "mentoring and monitoring activity"
+msgstr "наставничество и наблюдение"

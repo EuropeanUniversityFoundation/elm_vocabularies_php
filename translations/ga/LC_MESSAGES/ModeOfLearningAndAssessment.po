@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Irish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ga\n"
+
+msgid "Mode of learning and assessment"
+msgstr "An modh foghlama agus measúnaithe"
+
+msgid "Workbased"
+msgstr "Bunaithe ar obair"
+
+msgid "Project based"
+msgstr "Bunaithe ar thionscadal"
+
+msgid "Presential"
+msgstr "I láthair"
+
+msgid "Online"
+msgstr "Ar líne"
+
+msgid "Blended"
+msgstr "An dá rud"
+
+msgid "Research-Lab based"
+msgstr "Bunaithe ar thaighde nó ar obair shaotharlainne"
+
+msgid "Hybrid"
+msgstr "Hibrideach"

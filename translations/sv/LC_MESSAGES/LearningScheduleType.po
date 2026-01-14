@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Swedish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv\n"
+
+msgid "Learning schedule type"
+msgstr "Typ av studietakt"
+
+msgid "Part time light"
+msgstr "Deltid, lätt"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Deltid, lätt (mindre än 8 timmar)"
+
+msgid "Full time "
+msgstr "Heltid"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Heltid (mer än 30 timmar)"
+
+msgid "Part time intensive "
+msgstr "Deltid, intensiv"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Deltid, intensiv (8–30 timmar)"

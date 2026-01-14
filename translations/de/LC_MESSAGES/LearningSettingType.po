@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in German.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Learning setting type"
+msgstr "Art der Lernumgebung"
+
+msgid "formal learning"
+msgstr "Formales Lernen"
+
+msgid "non-formal learning"
+msgstr "Nichtformales Lernen"

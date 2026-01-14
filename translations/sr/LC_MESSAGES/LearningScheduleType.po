@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Serbian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr\n"
+
+msgid "Learning schedule type"
+msgstr "Vrsta rasporeda učenja"
+
+msgid "Part time light"
+msgstr "Slabije sa pola radnog vremena"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Slabije sa pola radnog vremena (manje od 8 sati)"
+
+msgid "Full time "
+msgstr "Puno radno vreme"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Puno radno vreme (više od 30 sati)"
+
+msgid "Part time intensive "
+msgstr "Intenzivno sa pola radnog vremena"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Intenzivno sa pola radnog vremena (8 do 30 sati)"

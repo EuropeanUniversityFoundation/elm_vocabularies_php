@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Norwegian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: no\n"
+
+msgid "Learning schedule type"
+msgstr "Type opplæringsplan"
+
+msgid "Part time light"
+msgstr "Ikke-intensivt deltidskurs"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Ikke-intensivt deltidskurs (inntil 8 timer)"
+
+msgid "Full time "
+msgstr "Heltidskurs"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Heltidskurs (mer enn 30 timer)"
+
+msgid "Part time intensive "
+msgstr "Intensivt deltidskurs"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Intensivt deltidskurs (8-30 timer)"

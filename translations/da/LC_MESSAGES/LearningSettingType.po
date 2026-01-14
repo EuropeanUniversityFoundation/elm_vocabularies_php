@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Danish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: da\n"
+
+msgid "Learning setting type"
+msgstr "Type læringsmiljø"
+
+msgid "formal learning"
+msgstr "Formel læring"
+
+msgid "non-formal learning"
+msgstr "Ikkeformel læring"

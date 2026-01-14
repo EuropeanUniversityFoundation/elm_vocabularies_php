@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Turkish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "Learning opportunity type"
+msgstr "Öğrenim Olanağı Tipi"
+
+msgid "Course"
+msgstr "Kurs"
+
+msgid "Programme module"
+msgstr "Program modülü"
+
+msgid "Mentoring"
+msgstr "Rehberlik"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Çıraklık"
+
+msgid "Study visit"
+msgstr "Eğitim ziyareti"
+
+msgid "Short learning programme"
+msgstr "Kısa öğrenim programı"
+
+msgid "Internship"
+msgstr "Stajyerlik"
+
+msgid "Educational programme"
+msgstr "Eğitim programı"
+
+msgid "Class"
+msgstr "Sınıf"
+
+msgid "Service learning"
+msgstr "Hizmet öğrenimi"
+
+msgid "Thesis"
+msgstr "Tez"
+
+msgid "Challenge"
+msgstr "Görev"

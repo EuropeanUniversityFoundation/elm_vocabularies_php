@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Romanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro\n"
+
+msgid "Learning opportunity type"
+msgstr "Tipul oportunității de învățare"
+
+msgid "Course"
+msgstr "Curs"
+
+msgid "Programme module"
+msgstr "Modul de program"
+
+msgid "Mentoring"
+msgstr "Mentorat"
+
+msgid "MOOC"
+msgstr "MOOC (Cursuri online deschise și în masă)"
+
+msgid "Apprenticeship"
+msgstr "Ucenicie"
+
+msgid "Study visit"
+msgstr "Vizită de studiu"
+
+msgid "Short learning programme"
+msgstr "Program scurt de învățare"
+
+msgid "Internship"
+msgstr "Stagiu"
+
+msgid "Educational programme"
+msgstr "Program educațional"
+
+msgid "Class"
+msgstr "Lecție"
+
+msgid "Service learning"
+msgstr "Serviciu de învățare"
+
+msgid "Thesis"
+msgstr "Lucrare de diplomă"
+
+msgid "Challenge"
+msgstr "Provocare"

@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Irish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ga\n"
+
+msgid "Learning setting type"
+msgstr "An cineál suímh foghlama"
+
+msgid "formal learning"
+msgstr "Foghlaim fhoirmiúil"
+
+msgid "non-formal learning"
+msgstr "Foghlaim sheachfhoirmiúil"

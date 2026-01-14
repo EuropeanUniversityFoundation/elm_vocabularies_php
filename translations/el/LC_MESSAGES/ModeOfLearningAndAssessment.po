@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Greek.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Τρόπος μάθησης και αξιολόγησης"
+
+msgid "Workbased"
+msgstr "Με βάση την εργασία"
+
+msgid "Project based"
+msgstr "Με βάση συγκεκριμένο έργο"
+
+msgid "Presential"
+msgstr "Με φυσική παρουσία"
+
+msgid "Online"
+msgstr "Μέσω διαδικτύου"
+
+msgid "Blended"
+msgstr "Συνδυαστικά"
+
+msgid "Research-Lab based"
+msgstr "Με βάση έρευνα στο εργαστήριο"
+
+msgid "Hybrid"
+msgstr "Υβριδικοί"

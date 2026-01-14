@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Estonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: et\n"
+
+msgid "Assessment type"
+msgstr "Hindamise liik"
+
+msgid "peer assessment"
+msgstr "Vastastikune hindamine"
+
+msgid "Peers grade you."
+msgstr "Sind hindavad teised osalejad."
+
+msgid "marked assignment"
+msgstr "Hindeline ülesanne"
+
+msgid "continuous evaluation"
+msgstr "Pidev hindamine"
+
+msgid "portfolio"
+msgstr "Näidisalbum"
+
+msgid "group performance"
+msgstr "Rühmatöö"
+
+msgid "practical assessment"
+msgstr "Praktiline hindamine"
+
+msgid "written examination"
+msgstr "Kirjalik eksam"
+
+msgid "level of attendance"
+msgstr "Osavõtt"
+
+msgid "project work"
+msgstr "Projektitöö"
+
+msgid "peer review"
+msgstr "Vastastikune tagasiside"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Esitlus- või sünteesimisoskuse testimine. Teised osalejad annavad tagasisidet, kuid õpetaja hindab."
+
+msgid "quiz"
+msgstr "Viktoriin"
+
+msgid "problem based learning"
+msgstr "Probleemipõhine õpe"
+
+msgid "oral examination"
+msgstr "Suuline eksam"
+
+msgid "artefact assessment"
+msgstr "Tehiseseme hindamine"
+
+msgid "Presentation"
+msgstr "Tutvustus"

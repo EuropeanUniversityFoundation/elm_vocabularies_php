@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Romanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro\n"
+
+msgid "Learning schedule type"
+msgstr "Tipul de orar"
+
+msgid "Part time light"
+msgstr "Cu frecvență redusă lejer"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Cu frecvență redusă lejer (mai puțin de 8 ore)"
+
+msgid "Full time "
+msgstr "Cu frecvență"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Cu frecvență (peste 30 de ore)"
+
+msgid "Part time intensive "
+msgstr "Cu frecvență redusă intensiv"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Cu frecvență redusă intensiv (8-30 de ore)"

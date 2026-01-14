@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Bulgarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Learning opportunity type"
+msgstr "Вид учебна възможност"
+
+msgid "Course"
+msgstr "Курс"
+
+msgid "Programme module"
+msgstr "Програмен модул"
+
+msgid "Mentoring"
+msgstr "Наставничество"
+
+msgid "MOOC"
+msgstr "МООК (Масов отворен онлайн курс)"
+
+msgid "Apprenticeship"
+msgstr "Чиракуване"
+
+msgid "Study visit"
+msgstr "Учебно посещение"
+
+msgid "Short learning programme"
+msgstr "Кратка програма за обучение"
+
+msgid "Internship"
+msgstr "Стаж"
+
+msgid "Educational programme"
+msgstr "Образователна програма"
+
+msgid "Class"
+msgstr "Урок"
+
+msgid "Service learning"
+msgstr "Учене чрез извършване на общественополезен труд"
+
+msgid "Thesis"
+msgstr "Дисертация"
+
+msgid "Challenge"
+msgstr "Предизвикателство"

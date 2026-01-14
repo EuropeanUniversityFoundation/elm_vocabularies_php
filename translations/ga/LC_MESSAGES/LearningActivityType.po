@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Irish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ga\n"
+
+msgid "Learning activity type"
+msgstr "Cineál na Gníomhaíochta Foghlama"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Obair chúrsa shaotharlainne / ionsamhlaithe / phraiticiúil"
+
+msgid "job experience"
+msgstr "Taithí oibre"
+
+msgid "volunteering"
+msgstr "Obair dheonach"
+
+msgid "research"
+msgstr "Taighde"
+
+msgid "self-motivated study"
+msgstr "Staidéar féin-spreagtha"
+
+msgid "e-learning coursework"
+msgstr "Obair chúrsa ríomhfhoghlama"
+
+msgid "internship"
+msgstr "Intéirneacht"
+
+msgid "apprenticeship"
+msgstr "Printíseacht"
+
+msgid "workshop, seminar or conference"
+msgstr "Ceardlann, seimineár nó comhdháil"
+
+msgid "educational programme"
+msgstr "Clár oideachais"
+
+msgid "classroom coursework"
+msgstr "Obair chúrsa ranga"
+
+msgid "mentoring and monitoring activity"
+msgstr "gníomhaíocht mheantóireachta agus faireacháin"

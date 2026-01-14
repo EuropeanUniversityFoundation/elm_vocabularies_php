@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Estonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: et\n"
+
+msgid "Learning activity type"
+msgstr "Õppetegevuse liik"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Labor / simulatsioon / praktiline töö"
+
+msgid "job experience"
+msgstr "Töökogemus"
+
+msgid "volunteering"
+msgstr "Vabatahtlik tegevus"
+
+msgid "research"
+msgstr "Teadusuuringud"
+
+msgid "self-motivated study"
+msgstr "Iseseisev õppetöö"
+
+msgid "e-learning coursework"
+msgstr "E-kursus"
+
+msgid "internship"
+msgstr "Praktika"
+
+msgid "apprenticeship"
+msgstr "Õpipoisiõpe"
+
+msgid "workshop, seminar or conference"
+msgstr "Õpikoda, seminar või konverents"
+
+msgid "educational programme"
+msgstr "Haridusprogramm"
+
+msgid "classroom coursework"
+msgstr "Klassiruumikursus"
+
+msgid "mentoring and monitoring activity"
+msgstr "Mentorlus ja järelevalve"

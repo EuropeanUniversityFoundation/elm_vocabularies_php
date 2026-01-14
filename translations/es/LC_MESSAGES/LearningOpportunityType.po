@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Spanish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "Learning opportunity type"
+msgstr "Tipo de oportunidad de aprendizaje"
+
+msgid "Course"
+msgstr "Curso"
+
+msgid "Programme module"
+msgstr "Módulo de un programa"
+
+msgid "Mentoring"
+msgstr "Tutoría"
+
+msgid "MOOC"
+msgstr "Curso online masivo y abierto (MOOC)"
+
+msgid "Apprenticeship"
+msgstr "Aprendizaje profesional"
+
+msgid "Study visit"
+msgstr "Visita de estudios"
+
+msgid "Short learning programme"
+msgstr "Programa de aprendizaje corto"
+
+msgid "Internship"
+msgstr "Prácticas en empresas"
+
+msgid "Educational programme"
+msgstr "Programa educativo"
+
+msgid "Class"
+msgstr "Clase"
+
+msgid "Service learning"
+msgstr "Aprendizaje-servicio"
+
+msgid "Thesis"
+msgstr "Tesis"
+
+msgid "Challenge"
+msgstr "Reto"

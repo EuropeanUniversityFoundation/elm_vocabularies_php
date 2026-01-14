@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Irish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ga\n"
+
+msgid "Learning opportunity type"
+msgstr "Cineál na Deise Foghlama"
+
+msgid "Course"
+msgstr "Cúrsa"
+
+msgid "Programme module"
+msgstr "Modúl cláir"
+
+msgid "Mentoring"
+msgstr "Meantóireacht"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Printíseacht"
+
+msgid "Study visit"
+msgstr "Cuairt staidéir"
+
+msgid "Short learning programme"
+msgstr "Gearrchlár foghlama"
+
+msgid "Internship"
+msgstr "Intéirneacht"
+
+msgid "Educational programme"
+msgstr "Clár oideachais"
+
+msgid "Class"
+msgstr "Rang"
+
+msgid "Service learning"
+msgstr "Foghlaim seirbhísí"
+
+msgid "Thesis"
+msgstr "Tráchtas"
+
+msgid "Challenge"
+msgstr "Dúshlán"

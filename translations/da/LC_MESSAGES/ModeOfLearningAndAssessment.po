@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Danish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: da\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Lærings- og vurderingsmåde"
+
+msgid "Workbased"
+msgstr "Arbejdsbaseret"
+
+msgid "Project based"
+msgstr "Projektbaseret"
+
+msgid "Presential"
+msgstr "Præsentation"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Blandet"
+
+msgid "Research-Lab based"
+msgstr "Forsknings-/laboratoriebaseret"
+
+msgid "Hybrid"
+msgstr "Hybrid"

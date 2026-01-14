@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Slovenian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sl\n"
+
+msgid "Learning opportunity type"
+msgstr "Vrsta možnosti izobraževanja"
+
+msgid "Course"
+msgstr "Tečaj"
+
+msgid "Programme module"
+msgstr "Programski modul"
+
+msgid "Mentoring"
+msgstr "Mentorstvo"
+
+msgid "MOOC"
+msgstr "Množični odprti spletni tečaj (MOOC)"
+
+msgid "Apprenticeship"
+msgstr "Vajeništvo"
+
+msgid "Study visit"
+msgstr "Študijski obisk"
+
+msgid "Short learning programme"
+msgstr "Kratki učni program"
+
+msgid "Internship"
+msgstr "Delovna praksa"
+
+msgid "Educational programme"
+msgstr "Izobraževalni program"
+
+msgid "Class"
+msgstr "Razred"
+
+msgid "Service learning"
+msgstr "Učenje prek udejstvovanja v družbi"
+
+msgid "Thesis"
+msgstr "Zaključno delo"
+
+msgid "Challenge"
+msgstr "Izziv"

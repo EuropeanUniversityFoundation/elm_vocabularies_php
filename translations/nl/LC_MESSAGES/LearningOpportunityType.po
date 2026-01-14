@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Dutch.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "Learning opportunity type"
+msgstr "Type leermogelijkheid"
+
+msgid "Course"
+msgstr "Cursus"
+
+msgid "Programme module"
+msgstr "Programmamodule"
+
+msgid "Mentoring"
+msgstr "Mentorschap"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Leercontract"
+
+msgid "Study visit"
+msgstr "Studiebezoek"
+
+msgid "Short learning programme"
+msgstr "Kort leerprogramma"
+
+msgid "Internship"
+msgstr "Stage"
+
+msgid "Educational programme"
+msgstr "Onderwijsprogramma"
+
+msgid "Class"
+msgstr "Klasse"
+
+msgid "Service learning"
+msgstr "Service-learning"
+
+msgid "Thesis"
+msgstr "Thesis/proefschrift"
+
+msgid "Challenge"
+msgstr "Uitdaging"

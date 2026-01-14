@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Icelandic.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: is\n"
+
+msgid "Learning setting type"
+msgstr "Tegund námsumhverfis"
+
+msgid "formal learning"
+msgstr "Formlegt nám"
+
+msgid "non-formal learning"
+msgstr "Óformlegt nám"

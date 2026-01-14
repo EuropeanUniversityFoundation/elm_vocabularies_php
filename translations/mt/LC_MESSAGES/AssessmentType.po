@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Maltese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mt\n"
+
+msgid "Assessment type"
+msgstr "Tip ta’ Valutazzjoni"
+
+msgid "peer assessment"
+msgstr "Valutazzjoni bejn il-pari"
+
+msgid "Peers grade you."
+msgstr "Sħabek jevalwawk."
+
+msgid "marked assignment"
+msgstr "Assignment bil-marki"
+
+msgid "continuous evaluation"
+msgstr "Evalwazzjoni kontinwa"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Prestazzjoni tal-grupp"
+
+msgid "practical assessment"
+msgstr "Valutazzjoni prattika"
+
+msgid "written examination"
+msgstr "Eżami bil-miktub"
+
+msgid "level of attendance"
+msgstr "Livell ta’ attendenza"
+
+msgid "project work"
+msgstr "Xogħol ta’ proġett"
+
+msgid "peer review"
+msgstr "Valutazzjoni bejn il-pari"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test tal-ħiliet tal-preżentazzjoni jew tas-sinteżi. Sħabek jipprovdulek il-feedback, iżda l-għalliema jevalwawk."
+
+msgid "quiz"
+msgstr "Kwiżż"
+
+msgid "problem based learning"
+msgstr "Tagħlim ibbażat fuq il-problema"
+
+msgid "oral examination"
+msgstr "Eżami orali"
+
+msgid "artefact assessment"
+msgstr "Valutazzjoni tal-artifatti"
+
+msgid "Presentation"
+msgstr "Preżentazzjoni"

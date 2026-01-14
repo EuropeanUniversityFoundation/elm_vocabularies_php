@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Maltese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mt\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Mod tal-apprendiment u tal-valutazzjoni"
+
+msgid "Workbased"
+msgstr "Ibbażat fuq ix-xogħol"
+
+msgid "Project based"
+msgstr "Ibbażat fuq il-proġett"
+
+msgid "Presential"
+msgstr "Preżenzjali"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Imħallat"
+
+msgid "Research-Lab based"
+msgstr "Ibbażat fuq ir-Riċerka fil-Laboratorju"
+
+msgid "Hybrid"
+msgstr "Ibrida"

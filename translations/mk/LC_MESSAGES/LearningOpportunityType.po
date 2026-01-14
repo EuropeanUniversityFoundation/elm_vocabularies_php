@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Macedonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mk\n"
+
+msgid "Learning opportunity type"
+msgstr "Тип на можност за учење"
+
+msgid "Course"
+msgstr "Курс"
+
+msgid "Programme module"
+msgstr "Програмски модул"
+
+msgid "Mentoring"
+msgstr "Менторство"
+
+msgid "MOOC"
+msgstr "(МООК) Масивен отворен онлајн курс"
+
+msgid "Apprenticeship"
+msgstr "Професионално обучување"
+
+msgid "Study visit"
+msgstr "Студиска посета"
+
+msgid "Short learning programme"
+msgstr "Кратка програма за учење"
+
+msgid "Internship"
+msgstr "Стажирање"
+
+msgid "Educational programme"
+msgstr "Образовна програма"
+
+msgid "Class"
+msgstr "Класа"
+
+msgid "Service learning"
+msgstr "Услужно учење"
+
+msgid "Thesis"
+msgstr "Теза"
+
+msgid "Challenge"
+msgstr "Предизвик"

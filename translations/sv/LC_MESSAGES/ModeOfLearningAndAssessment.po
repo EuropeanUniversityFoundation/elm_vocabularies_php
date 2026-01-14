@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Swedish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Typ av lärande och bedömning"
+
+msgid "Workbased"
+msgstr "Jobbaserat"
+
+msgid "Project based"
+msgstr "Projektbaserat"
+
+msgid "Presential"
+msgstr "Närundervisning"
+
+msgid "Online"
+msgstr "På nätet"
+
+msgid "Blended"
+msgstr "Blandat lärande"
+
+msgid "Research-Lab based"
+msgstr "Lärande i forskningslaboratorium"
+
+msgid "Hybrid"
+msgstr "Hybridlärande"

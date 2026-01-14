@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Romanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Mod de învățare și evaluare"
+
+msgid "Workbased"
+msgstr "Bazată pe muncă"
+
+msgid "Project based"
+msgstr "Bazată pe proiect"
+
+msgid "Presential"
+msgstr "Cu prezență față în față"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Mixtă"
+
+msgid "Research-Lab based"
+msgstr "Bazată pe cercetare de laborator"
+
+msgid "Hybrid"
+msgstr "Hibrid"

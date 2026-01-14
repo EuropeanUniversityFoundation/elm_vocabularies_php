@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Slovenian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sl\n"
+
+msgid "Assessment type"
+msgstr "Vrsta ocenjevanja"
+
+msgid "peer assessment"
+msgstr "Medsebojno ocenjevanje"
+
+msgid "Peers grade you."
+msgstr "Vrstniki vas ocenjujejo."
+
+msgid "marked assignment"
+msgstr "Ocenjena naloga"
+
+msgid "continuous evaluation"
+msgstr "Stalno ocenjevanje"
+
+msgid "portfolio"
+msgstr "Portfelj"
+
+msgid "group performance"
+msgstr "Skupinski uspeh"
+
+msgid "practical assessment"
+msgstr "Praktično ocenjevanje"
+
+msgid "written examination"
+msgstr "Pisno preverjanje"
+
+msgid "level of attendance"
+msgstr "Stopnja udeležbe"
+
+msgid "project work"
+msgstr "Projektno delo"
+
+msgid "peer review"
+msgstr "Medsebojni pregled"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test predstavitvenih ali sinteznih spretnosti. Vrstniki dajejo povratne informacije, učitelj pa vas oceni."
+
+msgid "quiz"
+msgstr "Kviz"
+
+msgid "problem based learning"
+msgstr "Problemsko učenje"
+
+msgid "oral examination"
+msgstr "Ustno preverjanje"
+
+msgid "artefact assessment"
+msgstr "Ocenjevanje artefakta"
+
+msgid "Presentation"
+msgstr "Predstavitev"

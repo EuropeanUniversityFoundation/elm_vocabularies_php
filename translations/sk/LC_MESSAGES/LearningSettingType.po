@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Slovak.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgid "Learning setting type"
+msgstr "Typ vzdelávacieho prostredia"
+
+msgid "formal learning"
+msgstr "Formálne vzdelávanie"
+
+msgid "non-formal learning"
+msgstr "Neformálne vzdelávanie"

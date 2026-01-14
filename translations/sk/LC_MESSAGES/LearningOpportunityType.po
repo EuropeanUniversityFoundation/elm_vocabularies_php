@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Slovak.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgid "Learning opportunity type"
+msgstr "Druh príležitosti na vzdelávanie"
+
+msgid "Course"
+msgstr "Kurz"
+
+msgid "Programme module"
+msgstr "Modul programu"
+
+msgid "Mentoring"
+msgstr "Mentorstvo"
+
+msgid "MOOC"
+msgstr "Hromadný otvorený online kurz"
+
+msgid "Apprenticeship"
+msgstr "Učňovská príprava"
+
+msgid "Study visit"
+msgstr "Študijný pobyt"
+
+msgid "Short learning programme"
+msgstr "Krátky vzdelávací program"
+
+msgid "Internship"
+msgstr "Stáž"
+
+msgid "Educational programme"
+msgstr "Vzdelávací program"
+
+msgid "Class"
+msgstr "Vyučovací predmet"
+
+msgid "Service learning"
+msgstr "Učenie sa v prostredí služieb"
+
+msgid "Thesis"
+msgstr "Záverečná práca"
+
+msgid "Challenge"
+msgstr "Výzva"

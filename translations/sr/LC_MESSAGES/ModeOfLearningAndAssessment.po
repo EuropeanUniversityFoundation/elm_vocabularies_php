@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Serbian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Režim učenja i procene"
+
+msgid "Workbased"
+msgstr "Na osnovu posla"
+
+msgid "Project based"
+msgstr "Na osnovu projekta"
+
+msgid "Presential"
+msgstr "U prisustvu"
+
+msgid "Online"
+msgstr "Onlajn"
+
+msgid "Blended"
+msgstr "Kombinovano"
+
+msgid "Research-Lab based"
+msgstr "Na osnovu istraživanja-laboratorije"
+
+msgid "Hybrid"
+msgstr "Hibridno"

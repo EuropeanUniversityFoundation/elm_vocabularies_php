@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Macedonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mk\n"
+
+msgid "Learning activity type"
+msgstr "Видови активности на учење"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Лабораторија / симулација / курсеви за пракса"
+
+msgid "job experience"
+msgstr "Работно искуство"
+
+msgid "volunteering"
+msgstr "Волонтирање"
+
+msgid "research"
+msgstr "Истражување"
+
+msgid "self-motivated study"
+msgstr "Самомотивирано истражување"
+
+msgid "e-learning coursework"
+msgstr "Курсеви за е-учење"
+
+msgid "internship"
+msgstr "Стажирање"
+
+msgid "apprenticeship"
+msgstr "Професионално обучување"
+
+msgid "workshop, seminar or conference"
+msgstr "Работилница, семинар или конференција"
+
+msgid "educational programme"
+msgstr "Образовна програма"
+
+msgid "classroom coursework"
+msgstr "Курсеви во училница"
+
+msgid "mentoring and monitoring activity"
+msgstr "активност на менторство и мониторинг"

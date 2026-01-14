@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Dutch.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "Learning activity type"
+msgstr "Type leeractiviteit"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Lab-/simulatie-/praktijkonderwijs"
+
+msgid "job experience"
+msgstr "Werkervaring"
+
+msgid "volunteering"
+msgstr "Vrijwilligerswerk"
+
+msgid "research"
+msgstr "Onderzoek"
+
+msgid "self-motivated study"
+msgstr "Zelfstudie"
+
+msgid "e-learning coursework"
+msgstr "E-learning"
+
+msgid "internship"
+msgstr "Stage"
+
+msgid "apprenticeship"
+msgstr "Leercontract"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminar of conferentie"
+
+msgid "educational programme"
+msgstr "Onderwijsprogramma"
+
+msgid "classroom coursework"
+msgstr "Contactonderwijs"
+
+msgid "mentoring and monitoring activity"
+msgstr "begeleiding en monitoring"

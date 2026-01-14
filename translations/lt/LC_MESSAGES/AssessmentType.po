@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Lithuanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lt\n"
+
+msgid "Assessment type"
+msgstr "Įvertinimo tipas"
+
+msgid "peer assessment"
+msgstr "Tarpusavio vertinimas"
+
+msgid "Peers grade you."
+msgstr "Jus vertina kiti studentai."
+
+msgid "marked assignment"
+msgstr "Vertinama užduotis"
+
+msgid "continuous evaluation"
+msgstr "Nuolatinis vertinimas"
+
+msgid "portfolio"
+msgstr "Portfelis"
+
+msgid "group performance"
+msgstr "Grupės veiklos rezultatai"
+
+msgid "practical assessment"
+msgstr "Praktinis įvertinimas"
+
+msgid "written examination"
+msgstr "Egzaminas raštu"
+
+msgid "level of attendance"
+msgstr "Lankomumas"
+
+msgid "project work"
+msgstr "Projektinis darbas"
+
+msgid "peer review"
+msgstr "Tarpusavio vertinimas"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Pateikimo arba apibendrinimo įgūdžių testas. Kiti studentai pateikia atsiliepimų, o vertina dėstytojas."
+
+msgid "quiz"
+msgstr "Viktorina"
+
+msgid "problem based learning"
+msgstr "Uždavinių sprendimu grindžiamas mokymasis"
+
+msgid "oral examination"
+msgstr "Egzaminas žodžiu"
+
+msgid "artefact assessment"
+msgstr "Darbo produktų įvertinimas"
+
+msgid "Presentation"
+msgstr "Pateikimas"

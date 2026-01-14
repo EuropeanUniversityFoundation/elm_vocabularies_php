@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Icelandic.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: is\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Námsaðferð og námsmat"
+
+msgid "Workbased"
+msgstr "Starfsmiðað"
+
+msgid "Project based"
+msgstr "Verkefnamiðað"
+
+msgid "Presential"
+msgstr "Með viðveru"
+
+msgid "Online"
+msgstr "Á Netinu"
+
+msgid "Blended"
+msgstr "Blandað"
+
+msgid "Research-Lab based"
+msgstr "Rannsóknamiðað"
+
+msgid "Hybrid"
+msgstr "Blendingur"

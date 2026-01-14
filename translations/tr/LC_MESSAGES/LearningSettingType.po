@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Turkish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "Learning setting type"
+msgstr "Öğrenme ortamı türü"
+
+msgid "formal learning"
+msgstr "Resmi öğrenim"
+
+msgid "non-formal learning"
+msgstr "Gayri resmi öğrenim"

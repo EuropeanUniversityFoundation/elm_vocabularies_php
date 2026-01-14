@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Serbian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr\n"
+
+msgid "Learning setting type"
+msgstr "Vrsta postavke učenja"
+
+msgid "formal learning"
+msgstr "Formalno učenje"
+
+msgid "non-formal learning"
+msgstr "Neformalno učenje"

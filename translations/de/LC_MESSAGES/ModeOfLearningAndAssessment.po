@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in German.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Lern- und Beurteilungsmethode"
+
+msgid "Workbased"
+msgstr "Berufspraktisch"
+
+msgid "Project based"
+msgstr "Projektbasiert"
+
+msgid "Presential"
+msgstr "Präsenz"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Blended Learning"
+
+msgid "Research-Lab based"
+msgstr "Arbeit im Forschungslabor"
+
+msgid "Hybrid"
+msgstr "Hybrid"

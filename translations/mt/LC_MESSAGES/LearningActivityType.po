@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Maltese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mt\n"
+
+msgid "Learning activity type"
+msgstr "Tip ta’ attività tat-tagħlim"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorju/simulazzjoni/sessjonijiet ta' prattika"
+
+msgid "job experience"
+msgstr "Esperjenza ta’ xogħol"
+
+msgid "volunteering"
+msgstr "Volontarjat"
+
+msgid "research"
+msgstr "Riċerka"
+
+msgid "self-motivated study"
+msgstr "Studju awtomotivat"
+
+msgid "e-learning coursework"
+msgstr "Korsijiet ta' tagħlim elettroniku"
+
+msgid "internship"
+msgstr "Internship"
+
+msgid "apprenticeship"
+msgstr "Apprendistat"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminar jew konferenza"
+
+msgid "educational programme"
+msgstr "Programm ta' edukazzjoni"
+
+msgid "classroom coursework"
+msgstr "Korsijiet fil-klassi."
+
+msgid "mentoring and monitoring activity"
+msgstr "attività tal-mentoraġġ u tal-monitoraġġ"

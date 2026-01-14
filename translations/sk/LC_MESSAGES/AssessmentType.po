@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Slovak.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgid "Assessment type"
+msgstr "Typ hodnotenia"
+
+msgid "peer assessment"
+msgstr "Partnerské hodnotenie"
+
+msgid "Peers grade you."
+msgstr "Hodnotia vás kolegovia."
+
+msgid "marked assignment"
+msgstr "Hodnotená úloha"
+
+msgid "continuous evaluation"
+msgstr "Priebežné hodnotenie"
+
+msgid "portfolio"
+msgstr "Portfólio"
+
+msgid "group performance"
+msgstr "Skupinové výsledky"
+
+msgid "practical assessment"
+msgstr "Praktické hodnotenie"
+
+msgid "written examination"
+msgstr "Písomné skúšanie"
+
+msgid "level of attendance"
+msgstr "Úroveň dochádzky"
+
+msgid "project work"
+msgstr "Projektová práca"
+
+msgid "peer review"
+msgstr "Partnerské preskúmanie"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test prezentačných zručností alebo schopností syntézy. Spätnú väzbu poskytujú kolegovia, ale hodnotí vás učiteľ."
+
+msgid "quiz"
+msgstr "Kvíz"
+
+msgid "problem based learning"
+msgstr "Učenie založené na riešení problémov"
+
+msgid "oral examination"
+msgstr "Ústne skúšanie"
+
+msgid "artefact assessment"
+msgstr "Hodnotenie výsledku činnosti"
+
+msgid "Presentation"
+msgstr "Prezentácia"

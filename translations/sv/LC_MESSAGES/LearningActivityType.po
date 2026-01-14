@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Swedish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv\n"
+
+msgid "Learning activity type"
+msgstr "Inlärningsaktivitetens typ"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Labb/simulering/praktiska övningar"
+
+msgid "job experience"
+msgstr "Arbetslivserfarenhet"
+
+msgid "volunteering"
+msgstr "Volontärarbete"
+
+msgid "research"
+msgstr "Forskning"
+
+msgid "self-motivated study"
+msgstr "Självstudier"
+
+msgid "e-learning coursework"
+msgstr "E-lärande"
+
+msgid "internship"
+msgstr "Praktik"
+
+msgid "apprenticeship"
+msgstr "Lärlingsutbildning/läroavtal"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminarium eller konferens"
+
+msgid "educational programme"
+msgstr "Utbildningsprogram"
+
+msgid "classroom coursework"
+msgstr "Klassrumsundervisning"
+
+msgid "mentoring and monitoring activity"
+msgstr "handledning och uppföljning"

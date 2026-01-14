@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Norwegian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: no\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Opplærings- og vurderingsmåte"
+
+msgid "Workbased"
+msgstr "Arbeidsbasert"
+
+msgid "Project based"
+msgstr "Prosjektbasert"
+
+msgid "Presential"
+msgstr "Frammøte"
+
+msgid "Online"
+msgstr "På nettet"
+
+msgid "Blended"
+msgstr "Kombinert"
+
+msgid "Research-Lab based"
+msgstr "Forsknings/laboratoriebasert"
+
+msgid "Hybrid"
+msgstr "Hybrid"

@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Finnish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fi\n"
+
+msgid "Learning setting type"
+msgstr "Oppimistilanteen tyyppi"
+
+msgid "formal learning"
+msgstr "Virallinen oppiminen"
+
+msgid "non-formal learning"
+msgstr "Epävirallinen oppiminen"

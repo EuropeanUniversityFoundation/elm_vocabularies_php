@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Dutch.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Leer- en beoordelingsmethode"
+
+msgid "Workbased"
+msgstr "Werkend leren"
+
+msgid "Project based"
+msgstr "Projectleren"
+
+msgid "Presential"
+msgstr "Contact"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Gemengd"
+
+msgid "Research-Lab based"
+msgstr "Onderzoekslaboratorium"
+
+msgid "Hybrid"
+msgstr "Hybride"

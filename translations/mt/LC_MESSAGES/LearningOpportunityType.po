@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Maltese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mt\n"
+
+msgid "Learning opportunity type"
+msgstr "Tip ta’ Opportunità ta’ Tagħlim"
+
+msgid "Course"
+msgstr "Kors"
+
+msgid "Programme module"
+msgstr "Modulu tal-programm"
+
+msgid "Mentoring"
+msgstr "Mentoring"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Apprendistat"
+
+msgid "Study visit"
+msgstr "Żjara ta’ studju"
+
+msgid "Short learning programme"
+msgstr "Programm qasir ta’ tagħlim"
+
+msgid "Internship"
+msgstr "Internship"
+
+msgid "Educational programme"
+msgstr "Programm ta' edukazzjoni"
+
+msgid "Class"
+msgstr "Klassi"
+
+msgid "Service learning"
+msgstr "Tagħlim f'servizz"
+
+msgid "Thesis"
+msgstr "Teżi"
+
+msgid "Challenge"
+msgstr "Sfida"

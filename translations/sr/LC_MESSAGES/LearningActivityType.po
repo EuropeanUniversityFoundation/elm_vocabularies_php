@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Serbian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr\n"
+
+msgid "Learning activity type"
+msgstr "Vrsta aktivnosti učenja"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Radni zadaci u laboratoriji / na simulacijama / na praksi"
+
+msgid "job experience"
+msgstr "Radno iskustvo"
+
+msgid "volunteering"
+msgstr "Volontiranje"
+
+msgid "research"
+msgstr "Istraživanje"
+
+msgid "self-motivated study"
+msgstr "Samo-motivisano učenje"
+
+msgid "e-learning coursework"
+msgstr "Kursevi na internetu"
+
+msgid "internship"
+msgstr "Stručna praksa"
+
+msgid "apprenticeship"
+msgstr "Profesionalni trening"
+
+msgid "workshop, seminar or conference"
+msgstr "Radionica, seminar ili konferencija"
+
+msgid "educational programme"
+msgstr "Obrazovni program"
+
+msgid "classroom coursework"
+msgstr "Radni zadaci u učionici"
+
+msgid "mentoring and monitoring activity"
+msgstr "aktivnosti mentorstva i praćenja"

@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Macedonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mk\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Режим на учење и оценување"
+
+msgid "Workbased"
+msgstr "Базирано на работа"
+
+msgid "Project based"
+msgstr "Базирано на проект"
+
+msgid "Presential"
+msgstr "Презентирано"
+
+msgid "Online"
+msgstr "Онлајн"
+
+msgid "Blended"
+msgstr "Помешано"
+
+msgid "Research-Lab based"
+msgstr "Истражување основано во лабораторија"
+
+msgid "Hybrid"
+msgstr "Хибридно"

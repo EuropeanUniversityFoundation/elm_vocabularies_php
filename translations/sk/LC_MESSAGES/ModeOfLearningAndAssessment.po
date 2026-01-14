@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Slovak.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Spôsob učenia a hodnotenia"
+
+msgid "Workbased"
+msgstr "Učenie sa prácou"
+
+msgid "Project based"
+msgstr "Učenie sa prostredníctvom projektov"
+
+msgid "Presential"
+msgstr "Prezenčné"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Zmiešané učenie"
+
+msgid "Research-Lab based"
+msgstr "Učenie sa vo výskumnom laboratóriu"
+
+msgid "Hybrid"
+msgstr "Hybridné"

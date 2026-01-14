@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Finnish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fi\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Oppimis- ja arviointitapa"
+
+msgid "Workbased"
+msgstr "Työpohjainen"
+
+msgid "Project based"
+msgstr "Projektipohjainen"
+
+msgid "Presential"
+msgstr "Paikan päällä"
+
+msgid "Online"
+msgstr "Verkossa"
+
+msgid "Blended"
+msgstr "Yhdistelmä"
+
+msgid "Research-Lab based"
+msgstr "Tutkimus-/laboratoriopohjainen"
+
+msgid "Hybrid"
+msgstr "Hybridi"

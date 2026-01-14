@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Bulgarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Learning setting type"
+msgstr "Вид учебна среда"
+
+msgid "formal learning"
+msgstr "Формално учене"
+
+msgid "non-formal learning"
+msgstr "Неформално учене"

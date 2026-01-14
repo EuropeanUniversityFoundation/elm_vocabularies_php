@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in German.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Learning opportunity type"
+msgstr "Art der Lernmöglichkeit"
+
+msgid "Course"
+msgstr "Kurs"
+
+msgid "Programme module"
+msgstr "Programmmodul"
+
+msgid "Mentoring"
+msgstr "Mentoring"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Ausbildung/Lehre"
+
+msgid "Study visit"
+msgstr "Studienbesuch"
+
+msgid "Short learning programme"
+msgstr "Kurzlernprogramm"
+
+msgid "Internship"
+msgstr "Praktikum"
+
+msgid "Educational programme"
+msgstr "Bildungsprogramm"
+
+msgid "Class"
+msgstr "Unterricht"
+
+msgid "Service learning"
+msgstr "Lernen durch Engagement"
+
+msgid "Thesis"
+msgstr "Abschlussarbeit"
+
+msgid "Challenge"
+msgstr "Herausforderung"

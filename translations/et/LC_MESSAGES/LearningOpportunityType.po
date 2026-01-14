@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Estonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: et\n"
+
+msgid "Learning opportunity type"
+msgstr "Õppimisvõimaluse liik"
+
+msgid "Course"
+msgstr "Kursus"
+
+msgid "Programme module"
+msgstr "Programmimoodul"
+
+msgid "Mentoring"
+msgstr "Mentorlus"
+
+msgid "MOOC"
+msgstr "Laialt avatud e-õpe (MOOC)"
+
+msgid "Apprenticeship"
+msgstr "Õpipoisiõpe"
+
+msgid "Study visit"
+msgstr "Õppekülastus"
+
+msgid "Short learning programme"
+msgstr "Lühike õppeprogramm"
+
+msgid "Internship"
+msgstr "Praktika"
+
+msgid "Educational programme"
+msgstr "Haridusprogramm"
+
+msgid "Class"
+msgstr "Klass"
+
+msgid "Service learning"
+msgstr "Õppimine üldkasuliku töö kaudu"
+
+msgid "Thesis"
+msgstr "Väitekiri"
+
+msgid "Challenge"
+msgstr "Mida tuleb teha?"

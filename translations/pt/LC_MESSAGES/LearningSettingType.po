@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Portuguese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt\n"
+
+msgid "Learning setting type"
+msgstr "Tipo de contexto de aprendizagem"
+
+msgid "formal learning"
+msgstr "Aprendizagem formal"
+
+msgid "non-formal learning"
+msgstr "Aprendizagem não formal"

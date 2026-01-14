@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Latvian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lv\n"
+
+msgid "Learning schedule type"
+msgstr "Mācību grafika veids"
+
+msgid "Part time light"
+msgstr "Nepilna laika “viegls”"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Nepilna laika “viegls” (mazāk nekā 8 stundas)"
+
+msgid "Full time "
+msgstr "Pilna laika"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Pilna laika (vairāk nekā 30 stundas)"
+
+msgid "Part time intensive "
+msgstr "Nepilna laika intensīvs"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Nepilna laika intensīvs (8 līdz 30 stundas)"

@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Italian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+
+msgid "Assessment type"
+msgstr "Tipo di valutazione"
+
+msgid "peer assessment"
+msgstr "Valutazione tra pari"
+
+msgid "Peers grade you."
+msgstr "La valutazione è fornita da pari."
+
+msgid "marked assignment"
+msgstr "Valutazione con voti"
+
+msgid "continuous evaluation"
+msgstr "Valutazione continua"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Prestazioni di gruppo"
+
+msgid "practical assessment"
+msgstr "Valutazione pratica"
+
+msgid "written examination"
+msgstr "Esame scritto"
+
+msgid "level of attendance"
+msgstr "Frequenza"
+
+msgid "project work"
+msgstr "Lavoro di progetto"
+
+msgid "peer review"
+msgstr "Revisione tra pari"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Prova di capacità di presentazione o di sintesi. Il feedback è fornito da pari, ma la valutazione è fornita da un insegnante."
+
+msgid "quiz"
+msgstr "Quiz"
+
+msgid "problem based learning"
+msgstr "Apprendimento basato su problemi"
+
+msgid "oral examination"
+msgstr "Esame orale"
+
+msgid "artefact assessment"
+msgstr "Valutazione di un'opera"
+
+msgid "Presentation"
+msgstr "Presentazione"

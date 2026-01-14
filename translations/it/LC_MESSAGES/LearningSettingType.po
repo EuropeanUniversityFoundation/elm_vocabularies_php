@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Italian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+
+msgid "Learning setting type"
+msgstr "Contesto di apprendimento"
+
+msgid "formal learning"
+msgstr "Apprendimento formale"
+
+msgid "non-formal learning"
+msgstr "Apprendimento non formale"

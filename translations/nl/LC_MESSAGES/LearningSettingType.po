@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Dutch.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "Learning setting type"
+msgstr "Soort leeromgeving"
+
+msgid "formal learning"
+msgstr "Formeel leren"
+
+msgid "non-formal learning"
+msgstr "Niet-formeel leren"

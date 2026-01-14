@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Bulgarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Learning schedule type"
+msgstr "Вид график на обучение"
+
+msgid "Part time light"
+msgstr "Неинтензивно обучение в режим на частична посещаемост"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Неинтензивно обучение в режим на частична посещаемост (под 8 часа)"
+
+msgid "Full time "
+msgstr "Редовен курс на обучение"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Редовен курс на обучение (повече от 30 часа)"
+
+msgid "Part time intensive "
+msgstr "Интензивно обучение в режим на частична посещаемост"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Интензивно обучение в режим на частична посещаемост (от 8 до 30 часа)"

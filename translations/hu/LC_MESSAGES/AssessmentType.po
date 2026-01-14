@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Hungarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu\n"
+
+msgid "Assessment type"
+msgstr "Értékelés típusa"
+
+msgid "peer assessment"
+msgstr "Szakmai (konzulensi) értékelés"
+
+msgid "Peers grade you."
+msgstr "A kollégák osztályozzák Önt."
+
+msgid "marked assignment"
+msgstr "Osztályozott feladat"
+
+msgid "continuous evaluation"
+msgstr "Folyamatos értékelés"
+
+msgid "portfolio"
+msgstr "Portfolió"
+
+msgid "group performance"
+msgstr "Csoportos tevékenység"
+
+msgid "practical assessment"
+msgstr "Gyakorlat értékelése"
+
+msgid "written examination"
+msgstr "Írásbeli vizsga"
+
+msgid "level of attendance"
+msgstr "Részvételi arány"
+
+msgid "project work"
+msgstr "Projektmunka"
+
+msgid "peer review"
+msgstr "Társellenőrzés"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Előadói vagy szintetizáló készségek felmérése. A kollégák visszajelzést adnak, de a tanár osztályozza Önt."
+
+msgid "quiz"
+msgstr "Kvíz"
+
+msgid "problem based learning"
+msgstr "Problémaalapú tanulás"
+
+msgid "oral examination"
+msgstr "Szóbeli vizsga"
+
+msgid "artefact assessment"
+msgstr "Tárgy értékelése"
+
+msgid "Presentation"
+msgstr "Ismertetés"

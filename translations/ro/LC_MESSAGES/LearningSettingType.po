@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Romanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro\n"
+
+msgid "Learning setting type"
+msgstr "Tipul de cadru de învățare"
+
+msgid "formal learning"
+msgstr "Învățarea formală"
+
+msgid "non-formal learning"
+msgstr "Învățarea non-formală"

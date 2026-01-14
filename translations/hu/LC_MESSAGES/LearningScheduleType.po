@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Hungarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu\n"
+
+msgid "Learning schedule type"
+msgstr "A tanulás ütemezésének típusa"
+
+msgid "Part time light"
+msgstr "Kevésbé intenzív részmunkaidő"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Kevésbé intenzív (8 óránál kevesebb) részmunkaidő"
+
+msgid "Full time "
+msgstr "Teljes munkaidő"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Teljes (több mint 30 órás) munkaidő"
+
+msgid "Part time intensive "
+msgstr "Intenzív részmunkaidő"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Intenzív (8–30 órás) részmunkaidő"

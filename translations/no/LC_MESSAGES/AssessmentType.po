@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Norwegian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: no\n"
+
+msgid "Assessment type"
+msgstr "Type evaluering"
+
+msgid "peer assessment"
+msgstr "Fagfellevurdering"
+
+msgid "Peers grade you."
+msgstr "Andre vurderer deg."
+
+msgid "marked assignment"
+msgstr "Avhandling"
+
+msgid "continuous evaluation"
+msgstr "Fortløpende evaluering"
+
+msgid "portfolio"
+msgstr "Portefølje"
+
+msgid "group performance"
+msgstr "Gruppearbeid"
+
+msgid "practical assessment"
+msgstr "Evaluering av praktisk oppgave"
+
+msgid "written examination"
+msgstr "Skriftlig eksamen"
+
+msgid "level of attendance"
+msgstr "Tilstedeværelse"
+
+msgid "project work"
+msgstr "Prosjektarbeid"
+
+msgid "peer review"
+msgstr "Fagfellevurdering"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test av presentasjons- eller syntesekompetanse. Andre gir tilbakemeldinger, men lærere gir deg en karakter."
+
+msgid "quiz"
+msgstr "Quiz"
+
+msgid "problem based learning"
+msgstr "Læring basert på problemløsing"
+
+msgid "oral examination"
+msgstr "Muntlig eksamen"
+
+msgid "artefact assessment"
+msgstr "Evaluering av kunstoppgave"
+
+msgid "Presentation"
+msgstr "Presentasjon"

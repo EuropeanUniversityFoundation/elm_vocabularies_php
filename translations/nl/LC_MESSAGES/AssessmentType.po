@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Dutch.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "Assessment type"
+msgstr "Type beoordeling"
+
+msgid "peer assessment"
+msgstr "Collegiale toetsing"
+
+msgid "Peers grade you."
+msgstr "Leergenoten beoordelen u."
+
+msgid "marked assignment"
+msgstr "Opdracht met punten"
+
+msgid "continuous evaluation"
+msgstr "Permanente evaluatie"
+
+msgid "portfolio"
+msgstr "Portefeuille"
+
+msgid "group performance"
+msgstr "Groepsprestatie"
+
+msgid "practical assessment"
+msgstr "Praktijkevaluatie"
+
+msgid "written examination"
+msgstr "Schriftelijk examen"
+
+msgid "level of attendance"
+msgstr "Presentie"
+
+msgid "project work"
+msgstr "Projectwerk"
+
+msgid "peer review"
+msgstr "Peer review"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test van presentatie- of synthesevaardigheden. Leergenoten geven feedback, maar de leraar beoordeelt u."
+
+msgid "quiz"
+msgstr "Quiz"
+
+msgid "problem based learning"
+msgstr "Probleemgericht leren"
+
+msgid "oral examination"
+msgstr "Mondeling examen"
+
+msgid "artefact assessment"
+msgstr "Evaluatie werkstuk"
+
+msgid "Presentation"
+msgstr "Presentatie"

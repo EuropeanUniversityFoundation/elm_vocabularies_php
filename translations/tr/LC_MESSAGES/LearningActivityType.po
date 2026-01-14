@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Turkish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "Learning activity type"
+msgstr "Öğrenim etkinliği tipi"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratuvar / simülasyon / uygulama çalışması"
+
+msgid "job experience"
+msgstr "İş deneyimi"
+
+msgid "volunteering"
+msgstr "Gönüllülük"
+
+msgid "research"
+msgstr "Araştırma"
+
+msgid "self-motivated study"
+msgstr "Kendi kendine çalışma"
+
+msgid "e-learning coursework"
+msgstr "E-öğrenim çalışması"
+
+msgid "internship"
+msgstr "Stajyerlik"
+
+msgid "apprenticeship"
+msgstr "Çıraklık"
+
+msgid "workshop, seminar or conference"
+msgstr "Atölye, seminer veya konferans"
+
+msgid "educational programme"
+msgstr "Eğitim programı"
+
+msgid "classroom coursework"
+msgstr "Sınıf çalışması"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorluk ve izleme faaliyeti"

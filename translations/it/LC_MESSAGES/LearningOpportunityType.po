@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Italian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+
+msgid "Learning opportunity type"
+msgstr "Tipo di opportunità di apprendimento"
+
+msgid "Course"
+msgstr "Corso"
+
+msgid "Programme module"
+msgstr "Modulo del programma"
+
+msgid "Mentoring"
+msgstr "Tutoraggio"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Apprendistato"
+
+msgid "Study visit"
+msgstr "Visita di studio"
+
+msgid "Short learning programme"
+msgstr "Programma di apprendimento breve"
+
+msgid "Internship"
+msgstr "Tirocinio"
+
+msgid "Educational programme"
+msgstr "Programma di istruzione"
+
+msgid "Class"
+msgstr "Classe"
+
+msgid "Service learning"
+msgstr "Servizio di apprendimento"
+
+msgid "Thesis"
+msgstr "Tesi"
+
+msgid "Challenge"
+msgstr "Sfida"

@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Latvian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lv\n"
+
+msgid "Learning setting type"
+msgstr "Mācību vides veids"
+
+msgid "formal learning"
+msgstr "Formāla mācīšanās"
+
+msgid "non-formal learning"
+msgstr "Neformāla mācīšanās"

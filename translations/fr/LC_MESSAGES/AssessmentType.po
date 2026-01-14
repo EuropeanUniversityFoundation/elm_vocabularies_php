@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in French.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+
+msgid "Assessment type"
+msgstr "Type d’évaluation"
+
+msgid "peer assessment"
+msgstr "Évaluation par les pairs"
+
+msgid "Peers grade you."
+msgstr "Ce sont vos pairs qui vous notent."
+
+msgid "marked assignment"
+msgstr "Travail noté"
+
+msgid "continuous evaluation"
+msgstr "Évaluation continue"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Présentation en groupe"
+
+msgid "practical assessment"
+msgstr "Évaluation pratique"
+
+msgid "written examination"
+msgstr "Examen écrit"
+
+msgid "level of attendance"
+msgstr "Taux de fréquentation"
+
+msgid "project work"
+msgstr "Travail consacré à un projet"
+
+msgid "peer review"
+msgstr "Examen par les pairs"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test de compétences en matière de présentation ou de synthèse. Vos pairs fournissent un retour d’information, mais ce sont les enseignants qui vous notent."
+
+msgid "quiz"
+msgstr "Quiz"
+
+msgid "problem based learning"
+msgstr "Apprentissage fondé sur des problèmes"
+
+msgid "oral examination"
+msgstr "Examen oral"
+
+msgid "artefact assessment"
+msgstr "Évaluation d’un objet"
+
+msgid "Presentation"
+msgstr "Présentation"

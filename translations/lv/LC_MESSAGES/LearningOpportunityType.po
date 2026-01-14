@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Latvian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lv\n"
+
+msgid "Learning opportunity type"
+msgstr "Mācību iespējas veids"
+
+msgid "Course"
+msgstr "Kurss"
+
+msgid "Programme module"
+msgstr "Programmas modulis"
+
+msgid "Mentoring"
+msgstr "Mentorings"
+
+msgid "MOOC"
+msgstr "MOOC jeb masveida atvērtais interneta kurss"
+
+msgid "Apprenticeship"
+msgstr "Māceklība"
+
+msgid "Study visit"
+msgstr "Mācību apmeklējums"
+
+msgid "Short learning programme"
+msgstr "Īstermiņa mācību programma"
+
+msgid "Internship"
+msgstr "Stažēšanās"
+
+msgid "Educational programme"
+msgstr "Izglītības programma"
+
+msgid "Class"
+msgstr "Nodarbība"
+
+msgid "Service learning"
+msgstr "Mācīšanās sabiedriskajā darbā"
+
+msgid "Thesis"
+msgstr "Disertācija"
+
+msgid "Challenge"
+msgstr "Izaicinājums"

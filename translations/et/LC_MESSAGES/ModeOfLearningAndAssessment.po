@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Estonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: et\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Õppimise ja hindamise viis"
+
+msgid "Workbased"
+msgstr "Tööpõhine"
+
+msgid "Project based"
+msgstr "Projektipõhine"
+
+msgid "Presential"
+msgstr "Kohapealne"
+
+msgid "Online"
+msgstr "Veebipõhine"
+
+msgid "Blended"
+msgstr "Kombineeritud"
+
+msgid "Research-Lab based"
+msgstr "Teaduslabori põhine"
+
+msgid "Hybrid"
+msgstr "Hübriid"

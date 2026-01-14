@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Irish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ga\n"
+
+msgid "Learning schedule type"
+msgstr "An cineál sceidil foghlama"
+
+msgid "Part time light"
+msgstr "Sceideal éadrom páirtaimseartha"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Sceideal éadrom páirtaimseartha (níos lú ná 8 uair an chloig)"
+
+msgid "Full time "
+msgstr "Lánaimseartha"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Lánaimseartha (níos mó ná 30 uair an chloig)"
+
+msgid "Part time intensive "
+msgstr "Sceideal dian páirtaimseartha"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Sceideal dian páirtaimseartha (8 go 30 uair an chloig)"

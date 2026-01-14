@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Maltese.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mt\n"
+
+msgid "Learning setting type"
+msgstr "Tip tal-konfigurazzjoni tal-apprendiment"
+
+msgid "formal learning"
+msgstr "Tagħlim formali"
+
+msgid "non-formal learning"
+msgstr "Tagħlim mhux formali"

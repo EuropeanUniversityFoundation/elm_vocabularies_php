@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Croatian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hr\n"
+
+msgid "Learning schedule type"
+msgstr "Vrsta rasporeda učenja"
+
+msgid "Part time light"
+msgstr "Nepuno vrijeme pohađanja – lagani tečaj"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Nepuno vrijeme pohađanja (manje od 8 sati)"
+
+msgid "Full time "
+msgstr "Puno vrijeme pohađanja"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Puno vrijeme pohađanja (više od 30 sati)"
+
+msgid "Part time intensive "
+msgstr "Nepuno vrijeme pohađanja – intenzivni tečaj"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Nepuno vrijeme pohađanja (od 8 do 30 sati)"

@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Finnish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fi\n"
+
+msgid "Learning activity type"
+msgstr "Oppimistoimen tyyppi"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorio / simulaatio / harjoitus"
+
+msgid "job experience"
+msgstr "Työkokemus"
+
+msgid "volunteering"
+msgstr "Vapaaehtoistyö"
+
+msgid "research"
+msgstr "Tutkimus"
+
+msgid "self-motivated study"
+msgstr "Omatoiminen opiskelu"
+
+msgid "e-learning coursework"
+msgstr "Verkkokurssit"
+
+msgid "internship"
+msgstr "Harjoittelu"
+
+msgid "apprenticeship"
+msgstr "Oppisopimus"
+
+msgid "workshop, seminar or conference"
+msgstr "Työpaja, seminaari tai konferenssi"
+
+msgid "educational programme"
+msgstr "Koulutusohjelma"
+
+msgid "classroom coursework"
+msgstr "Luokkaopetus"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorointi ja seuranta"

@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in German.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Learning activity type"
+msgstr "Art der Lernaktivität"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Unterricht in Form von Laborarbeit, Simulationen oder Praxisarbeit"
+
+msgid "job experience"
+msgstr "Berufserfahrung"
+
+msgid "volunteering"
+msgstr "Freiwilligentätigkeit"
+
+msgid "research"
+msgstr "Forschung"
+
+msgid "self-motivated study"
+msgstr "Selbststudium"
+
+msgid "e-learning coursework"
+msgstr "Unterricht durch E-Learning"
+
+msgid "internship"
+msgstr "Praktikum"
+
+msgid "apprenticeship"
+msgstr "Ausbildung/Lehre"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, Seminar oder Konferenz"
+
+msgid "educational programme"
+msgstr "Bildungsprogramm"
+
+msgid "classroom coursework"
+msgstr "Präsenzunterricht"
+
+msgid "mentoring and monitoring activity"
+msgstr "Mentoring und Monitoring"

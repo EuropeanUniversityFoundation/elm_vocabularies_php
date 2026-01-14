@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Croatian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hr\n"
+
+msgid "Assessment type"
+msgstr "Vrsta procjene"
+
+msgid "peer assessment"
+msgstr "Istorazinska procjena"
+
+msgid "Peers grade you."
+msgstr "Vršnjaci vas ocjenjuju."
+
+msgid "marked assignment"
+msgstr "Ocijenjeni zadatak"
+
+msgid "continuous evaluation"
+msgstr "Kontinuirana evaluacija"
+
+msgid "portfolio"
+msgstr "Portfelj"
+
+msgid "group performance"
+msgstr "Skupno izlaganje"
+
+msgid "practical assessment"
+msgstr "Praktična procjena"
+
+msgid "written examination"
+msgstr "Pisano ispitivanje"
+
+msgid "level of attendance"
+msgstr "Razina pohađanja"
+
+msgid "project work"
+msgstr "Rad na projektu"
+
+msgid "peer review"
+msgstr "Pregled kolega"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Testiranje prezentiranja ili sažimanja. Vršnjaci komentiraju, a nastavnici vas ocjenjuju."
+
+msgid "quiz"
+msgstr "Test"
+
+msgid "problem based learning"
+msgstr "Učenje na temelju problema"
+
+msgid "oral examination"
+msgstr "Usmeno ispitivanje"
+
+msgid "artefact assessment"
+msgstr "Procjena rezultata polaznikova rada"
+
+msgid "Presentation"
+msgstr "Prikaz"

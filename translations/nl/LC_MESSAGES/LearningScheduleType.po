@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Dutch.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl\n"
+
+msgid "Learning schedule type"
+msgstr "Soort leerschema"
+
+msgid "Part time light"
+msgstr "Deeltijds light"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Deeltijds light (minder dan 8 uur)"
+
+msgid "Full time "
+msgstr "Voltijds"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Voltijds (meer dan 30 uur)"
+
+msgid "Part time intensive "
+msgstr "Deeltijds intensief"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Deeltijds intensief (8 tot 30 uur)"

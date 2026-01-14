@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Croatian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hr\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Modalitet učenja i ocjenjivanja"
+
+msgid "Workbased"
+msgstr "Temeljeni na radu"
+
+msgid "Project based"
+msgstr "Temeljeni na projektu"
+
+msgid "Presential"
+msgstr "Uz obveznu prisutnost"
+
+msgid "Online"
+msgstr "Na internetu"
+
+msgid "Blended"
+msgstr "Kombinirano"
+
+msgid "Research-Lab based"
+msgstr "Temeljeni na istraživačkom laboratoriju"
+
+msgid "Hybrid"
+msgstr "Hibridni"

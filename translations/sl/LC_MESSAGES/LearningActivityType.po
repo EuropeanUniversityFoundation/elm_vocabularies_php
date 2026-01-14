@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Slovenian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sl\n"
+
+msgid "Learning activity type"
+msgstr "Vrsta učne dejavnosti"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorijske/simulacijske/praktične vaje"
+
+msgid "job experience"
+msgstr "Delovne izkušnje"
+
+msgid "volunteering"
+msgstr "Prostovoljstvo"
+
+msgid "research"
+msgstr "Raziskave"
+
+msgid "self-motivated study"
+msgstr "Samomotivirani študij"
+
+msgid "e-learning coursework"
+msgstr "Praktično delo za e-tečaj"
+
+msgid "internship"
+msgstr "Delovna praksa"
+
+msgid "apprenticeship"
+msgstr "Vajeništvo"
+
+msgid "workshop, seminar or conference"
+msgstr "Delavnica, seminar ali konferenca"
+
+msgid "educational programme"
+msgstr "Izobraževalni program"
+
+msgid "classroom coursework"
+msgstr "Delo v učilnici"
+
+msgid "mentoring and monitoring activity"
+msgstr "dejavnost mentorstva in spremljanja"

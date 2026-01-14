@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Swedish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv\n"
+
+msgid "Assessment type"
+msgstr "Bedömningstyp"
+
+msgid "peer assessment"
+msgstr "Inbördes utvärdering"
+
+msgid "Peers grade you."
+msgstr "Andra kursdeltagare ger dig betyg."
+
+msgid "marked assignment"
+msgstr "Bedömd uppgift"
+
+msgid "continuous evaluation"
+msgstr "Fortlöpande utvärdering"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Gruppens resultat"
+
+msgid "practical assessment"
+msgstr "Praktisk bedömning"
+
+msgid "written examination"
+msgstr "Skriftligt prov"
+
+msgid "level of attendance"
+msgstr "Närvaro"
+
+msgid "project work"
+msgstr "Projektarbete"
+
+msgid "peer review"
+msgstr "Inbördes bedömning"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Prov i att presentera eller sammanfatta ett ämne. Andra kursdeltagare ger återkoppling, men läraren ger betyg."
+
+msgid "quiz"
+msgstr "Frågesport"
+
+msgid "problem based learning"
+msgstr "Problembaserat lärande"
+
+msgid "oral examination"
+msgstr "Muntligt prov"
+
+msgid "artefact assessment"
+msgstr "Artefaktbedömning"
+
+msgid "Presentation"
+msgstr "Presentation"

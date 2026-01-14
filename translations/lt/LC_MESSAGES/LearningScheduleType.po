@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Lithuanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lt\n"
+
+msgid "Learning schedule type"
+msgstr "Mokymosi tvarkaraščio tipas"
+
+msgid "Part time light"
+msgstr "Dalinis neintensyvus krūvis"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Dalinis neintensyvus krūvis (mažiau kaip 8 val.)"
+
+msgid "Full time "
+msgstr "Visas krūvis"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Visas krūvis (daugiau kaip 30 val.)"
+
+msgid "Part time intensive "
+msgstr "Dalinis intensyvus krūvis"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Dalinis intensyvus krūvis (8–30 val.)"

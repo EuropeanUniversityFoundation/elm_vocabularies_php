@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Italian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Modalità di apprendimento e valutazione"
+
+msgid "Workbased"
+msgstr "Basato sul lavoro"
+
+msgid "Project based"
+msgstr "Basato sul progetto"
+
+msgid "Presential"
+msgstr "Presenziale"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Misto"
+
+msgid "Research-Lab based"
+msgstr "Basato su laboratorio di ricerca"
+
+msgid "Hybrid"
+msgstr "Ibrido"

@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Slovak.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgid "Learning activity type"
+msgstr "Druh vzdelávacej činnosti"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Práca v laboratóriu/simulácia/praktické vyučovanie"
+
+msgid "job experience"
+msgstr "Pracovná skúsenosť"
+
+msgid "volunteering"
+msgstr "Dobrovoľnícka činnosť"
+
+msgid "research"
+msgstr "Výskum"
+
+msgid "self-motivated study"
+msgstr "Samostatné štúdium"
+
+msgid "e-learning coursework"
+msgstr "Práca v rámci elektronického učenia sa"
+
+msgid "internship"
+msgstr "Stáž"
+
+msgid "apprenticeship"
+msgstr "Učňovská príprava"
+
+msgid "workshop, seminar or conference"
+msgstr "Workshop, seminár alebo konferencia"
+
+msgid "educational programme"
+msgstr "Vzdelávací program"
+
+msgid "classroom coursework"
+msgstr "Vyučovanie v triede"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentorská a monitorovacia činnosť"

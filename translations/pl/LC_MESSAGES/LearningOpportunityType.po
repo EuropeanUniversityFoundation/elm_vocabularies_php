@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Polish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl\n"
+
+msgid "Learning opportunity type"
+msgstr "Rodzaj oferty nauki"
+
+msgid "Course"
+msgstr "Kurs"
+
+msgid "Programme module"
+msgstr "Moduł programu"
+
+msgid "Mentoring"
+msgstr "Opieka mentorska"
+
+msgid "MOOC"
+msgstr "Masowy, otwarty kurs internetowy (MOOC)"
+
+msgid "Apprenticeship"
+msgstr "Przyuczenie do zawodu"
+
+msgid "Study visit"
+msgstr "Wizyta studyjna"
+
+msgid "Short learning programme"
+msgstr "Krótki program nauki"
+
+msgid "Internship"
+msgstr "Staż"
+
+msgid "Educational programme"
+msgstr "Program edukacyjny"
+
+msgid "Class"
+msgstr "Lekcja"
+
+msgid "Service learning"
+msgstr "Uczenie się przez aktywność społeczną"
+
+msgid "Thesis"
+msgstr "Praca dyplomowa"
+
+msgid "Challenge"
+msgstr "Wyzwanie"

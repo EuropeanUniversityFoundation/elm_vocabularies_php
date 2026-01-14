@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Greek.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el\n"
+
+msgid "Learning schedule type"
+msgstr "Τύπος χρονοδιαγράμματος μάθησης"
+
+msgid "Part time light"
+msgstr "Μερικής φοίτησης"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Μερικής φοίτησης (λιγότερες από 8 ώρες)"
+
+msgid "Full time "
+msgstr "Πλήρους φοίτησης"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Πλήρους φοίτησης (άνω των 30 ωρών)"
+
+msgid "Part time intensive "
+msgstr "Εντατικό πρόγραμμα μερικής φοίτησης"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Εντατικό πρόγραμμα μερικής φοίτησης (8 έως 30 ώρες)"

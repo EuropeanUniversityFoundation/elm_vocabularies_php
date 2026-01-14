@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Croatian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hr\n"
+
+msgid "Learning setting type"
+msgstr "Vrsta obrazovnog okruženja"
+
+msgid "formal learning"
+msgstr "Formalno učenje"
+
+msgid "non-formal learning"
+msgstr "Neformalno učenje"

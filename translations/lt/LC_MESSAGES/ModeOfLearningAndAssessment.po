@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Lithuanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lt\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Mokymosi ir vertinimo būdas"
+
+msgid "Workbased"
+msgstr "Dirbant"
+
+msgid "Project based"
+msgstr "Dalyvaujant projekte"
+
+msgid "Presential"
+msgstr "Akivaizdinis"
+
+msgid "Online"
+msgstr "Internetinis"
+
+msgid "Blended"
+msgstr "Mišrus"
+
+msgid "Research-Lab based"
+msgstr "Dirbant tyrimų laboratorijoje"
+
+msgid "Hybrid"
+msgstr "Mišrus"

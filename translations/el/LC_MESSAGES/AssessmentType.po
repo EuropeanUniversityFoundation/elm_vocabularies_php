@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Greek.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el\n"
+
+msgid "Assessment type"
+msgstr "Τύπος αξιολόγησης"
+
+msgid "peer assessment"
+msgstr "Αξιολόγηση από ομοτίμους"
+
+msgid "Peers grade you."
+msgstr "Βαθμολογείστε από ομοτίμους."
+
+msgid "marked assignment"
+msgstr "Εργασία με βαθμολόγηση"
+
+msgid "continuous evaluation"
+msgstr "Συνεχής αξιολόγηση"
+
+msgid "portfolio"
+msgstr "Χαρτοφυλάκιο"
+
+msgid "group performance"
+msgstr "Επιδόσεις ομάδας"
+
+msgid "practical assessment"
+msgstr "Πρακτική αξιολόγηση"
+
+msgid "written examination"
+msgstr "Γραπτή εξέταση"
+
+msgid "level of attendance"
+msgstr "Επίπεδο παρακολούθησης"
+
+msgid "project work"
+msgstr "Εργασία βάσει συγκεκριμένου έργου"
+
+msgid "peer review"
+msgstr "Αξιολόγηση από άλλους συμμετέχοντες"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Δοκιμασία δεξιοτήτων παρουσίασης ή σύνθεσης. Οι ομότιμοι παρέχουν ανατροφοδότηση, αλλά σας βαθμολογεί ο/η εκπαιδευτικός."
+
+msgid "quiz"
+msgstr "Κουίζ"
+
+msgid "problem based learning"
+msgstr "Μάθηση με βάση το πρόβλημα"
+
+msgid "oral examination"
+msgstr "Προφορική εξέταση"
+
+msgid "artefact assessment"
+msgstr "Αξιολόγηση τεχνουργήματος"
+
+msgid "Presentation"
+msgstr "Παρουσίαση"

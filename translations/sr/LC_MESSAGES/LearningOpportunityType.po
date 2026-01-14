@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Serbian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr\n"
+
+msgid "Learning opportunity type"
+msgstr "Vrsta prilike za učenje"
+
+msgid "Course"
+msgstr "Kurs"
+
+msgid "Programme module"
+msgstr "Modul programa"
+
+msgid "Mentoring"
+msgstr "Mentorstvo"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Profesionalni trening"
+
+msgid "Study visit"
+msgstr "Studijska poseta"
+
+msgid "Short learning programme"
+msgstr "Kratki program učenja"
+
+msgid "Internship"
+msgstr "Stručna praksa"
+
+msgid "Educational programme"
+msgstr "Obrazovni program"
+
+msgid "Class"
+msgstr "Razred"
+
+msgid "Service learning"
+msgstr "Učenje usluga"
+
+msgid "Thesis"
+msgstr "Teza"
+
+msgid "Challenge"
+msgstr "Poteškoća"

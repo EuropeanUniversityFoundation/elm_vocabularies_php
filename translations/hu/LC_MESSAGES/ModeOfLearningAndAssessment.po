@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Hungarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu\n"
+
+msgid "Mode of learning and assessment"
+msgstr "A tanulás és az értékelés módja"
+
+msgid "Workbased"
+msgstr "Munkaalapú"
+
+msgid "Project based"
+msgstr "Projektalapú"
+
+msgid "Presential"
+msgstr "Személyes"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Blended"
+msgstr "Vegyes"
+
+msgid "Research-Lab based"
+msgstr "Kutatáson/laboratóriumi munkán alapuló"
+
+msgid "Hybrid"
+msgstr "Hibrid"

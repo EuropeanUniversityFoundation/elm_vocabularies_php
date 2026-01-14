@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Greek.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el\n"
+
+msgid "Learning activity type"
+msgstr "Τύπος μαθησιακής δραστηριότητας"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Μαθήματα στο εργαστήριο/μέσω προσομοίωσης/πρακτικής"
+
+msgid "job experience"
+msgstr "Επαγγελματική πείρα"
+
+msgid "volunteering"
+msgstr "Εθελοντισμός"
+
+msgid "research"
+msgstr "Έρευνα"
+
+msgid "self-motivated study"
+msgstr "Προσωπική μελέτη"
+
+msgid "e-learning coursework"
+msgstr "Μαθήματα μέσω ηλεκτρονικής μάθησης"
+
+msgid "internship"
+msgstr "Πρακτική άσκηση"
+
+msgid "apprenticeship"
+msgstr "Μαθητεία"
+
+msgid "workshop, seminar or conference"
+msgstr "Εργαστήριο, σεμινάριο ή συνέδριο"
+
+msgid "educational programme"
+msgstr "Εκπαιδευτικό πρόγραμμα"
+
+msgid "classroom coursework"
+msgstr "Μαθήματα στην τάξη"
+
+msgid "mentoring and monitoring activity"
+msgstr "δραστηριότητα καθοδήγησης και παρακολούθησης"

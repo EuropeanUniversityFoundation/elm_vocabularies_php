@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Turkish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "Learning schedule type"
+msgstr "Öğrenme zaman çizelgesi türü"
+
+msgid "Part time light"
+msgstr "Yarım zamanlı hafif"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Yarım zamanlı hafif (8 saatten az)"
+
+msgid "Full time "
+msgstr "Tam zamanlı"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Tam zamanlı (30 saatten fazla)"
+
+msgid "Part time intensive "
+msgstr "Yarım zamanlı yoğun"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Yarım zamanlı yoğun (8 ila 30 saat)"

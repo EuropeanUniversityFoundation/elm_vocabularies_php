@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Bulgarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Assessment type"
+msgstr "Тип на оценката"
+
+msgid "peer assessment"
+msgstr "Партньорска оценка"
+
+msgid "Peers grade you."
+msgstr "Оценяват ви други участници в обучението."
+
+msgid "marked assignment"
+msgstr "Задача с оценка"
+
+msgid "continuous evaluation"
+msgstr "Текущо оценяване"
+
+msgid "portfolio"
+msgstr "Портфолио"
+
+msgid "group performance"
+msgstr "Групова резултатност"
+
+msgid "practical assessment"
+msgstr "Практическа оценка"
+
+msgid "written examination"
+msgstr "Писмен изпит"
+
+msgid "level of attendance"
+msgstr "Степен на посещаемост"
+
+msgid "project work"
+msgstr "Работа по проект"
+
+msgid "peer review"
+msgstr "Изпитване от другите обучаващи се"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Проверка на уменията за представяне или обобщение на информация. Други участници в обучението предоставят обратна информация, но ви оценява преподавател."
+
+msgid "quiz"
+msgstr "Викторина"
+
+msgid "problem based learning"
+msgstr "Учене, основано на проблеми"
+
+msgid "oral examination"
+msgstr "Устен изпит"
+
+msgid "artefact assessment"
+msgstr "Оценка на артефакти"
+
+msgid "Presentation"
+msgstr "Презентация"

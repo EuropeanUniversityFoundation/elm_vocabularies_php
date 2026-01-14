@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Spanish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "Learning activity type"
+msgstr "Tipo de actividad de aprendizaje"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratorio / simulación / tareas prácticas"
+
+msgid "job experience"
+msgstr "Experiencia laboral"
+
+msgid "volunteering"
+msgstr "Voluntariado"
+
+msgid "research"
+msgstr "Investigación"
+
+msgid "self-motivated study"
+msgstr "Estudio automotivado"
+
+msgid "e-learning coursework"
+msgstr "Tareas de aprendizaje electrónico"
+
+msgid "internship"
+msgstr "Prácticas en empresas"
+
+msgid "apprenticeship"
+msgstr "Aprendizaje profesional"
+
+msgid "workshop, seminar or conference"
+msgstr "Taller, seminario o conferencia"
+
+msgid "educational programme"
+msgstr "Programa educativo"
+
+msgid "classroom coursework"
+msgstr "Tareas en el aula"
+
+msgid "mentoring and monitoring activity"
+msgstr "actividad de tutoría y seguimiento"

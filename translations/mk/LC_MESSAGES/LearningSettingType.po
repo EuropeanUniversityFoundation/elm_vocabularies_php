@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Macedonian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: mk\n"
+
+msgid "Learning setting type"
+msgstr "Тип на поставки за учење"
+
+msgid "formal learning"
+msgstr "Формално учење"
+
+msgid "non-formal learning"
+msgstr "Неформално учење"

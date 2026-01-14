@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Greek.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el\n"
+
+msgid "Learning opportunity type"
+msgstr "Τύπος ευκαιρίας μάθησης"
+
+msgid "Course"
+msgstr "Κύκλος μαθημάτων"
+
+msgid "Programme module"
+msgstr "Ενότητα προγράμματος"
+
+msgid "Mentoring"
+msgstr "Καθοδήγηση"
+
+msgid "MOOC"
+msgstr "Ανοικτά μαζικά διαδικτυακά μαθήματα"
+
+msgid "Apprenticeship"
+msgstr "Μαθητεία"
+
+msgid "Study visit"
+msgstr "Εκπαιδευτική επίσκεψη"
+
+msgid "Short learning programme"
+msgstr "Σύντομο πρόγραμμα μάθησης"
+
+msgid "Internship"
+msgstr "Πρακτική άσκηση"
+
+msgid "Educational programme"
+msgstr "Εκπαιδευτικό πρόγραμμα"
+
+msgid "Class"
+msgstr "Τάξη"
+
+msgid "Service learning"
+msgstr "Μάθηση μέσω κοινωφελούς εργασίας"
+
+msgid "Thesis"
+msgstr "Διατριβή"
+
+msgid "Challenge"
+msgstr "Πρόκληση"

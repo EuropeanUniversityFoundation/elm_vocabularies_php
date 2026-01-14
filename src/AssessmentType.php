@@ -106,7 +106,7 @@ final class AssessmentType extends ControlledVocabulary
                 'label' => 'peer review',
                 'validSince' => '2020-06-24',
                 'validUntil' => null,
-                'definition' => 'Test of presentation and/or synthesis skills. Peers provide feedback, but teacher grades you.',
+                'definition' => 'test of presentation and/or synthesis skills',
             ],
             'b1b68f6735' => [
                 'label' => 'quiz',

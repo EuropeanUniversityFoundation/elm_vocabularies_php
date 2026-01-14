@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Romanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro\n"
+
+msgid "Learning activity type"
+msgstr "Tipul de rezultat al învățării"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laborator/simulare/practică"
+
+msgid "job experience"
+msgstr "Experiență profesională"
+
+msgid "volunteering"
+msgstr "Voluntariat"
+
+msgid "research"
+msgstr "Cercetare"
+
+msgid "self-motivated study"
+msgstr "Studiu individual"
+
+msgid "e-learning coursework"
+msgstr "Cursuri de e-learning"
+
+msgid "internship"
+msgstr "Stagiu"
+
+msgid "apprenticeship"
+msgstr "Ucenicie"
+
+msgid "workshop, seminar or conference"
+msgstr "Atelier, seminar sau conferință"
+
+msgid "educational programme"
+msgstr "Program educațional"
+
+msgid "classroom coursework"
+msgstr "Curs în clasă"
+
+msgid "mentoring and monitoring activity"
+msgstr "activitate de mentorat și monitorizare"

@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Icelandic.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: is\n"
+
+msgid "Learning opportunity type"
+msgstr "Tegund námstækifæris"
+
+msgid "Course"
+msgstr "Námskeið"
+
+msgid "Programme module"
+msgstr "Námsleiðareining"
+
+msgid "Mentoring"
+msgstr "Nám undir leiðsögn"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Samningsbundið nám"
+
+msgid "Study visit"
+msgstr "Námsferð"
+
+msgid "Short learning programme"
+msgstr "Stutt námsleið"
+
+msgid "Internship"
+msgstr "Starfsnám"
+
+msgid "Educational programme"
+msgstr "Námsleið"
+
+msgid "Class"
+msgstr "Kennsluhópur"
+
+msgid "Service learning"
+msgstr "Nám með samfélagsþjónustu"
+
+msgid "Thesis"
+msgstr "Lokaritgerð"
+
+msgid "Challenge"
+msgstr "Áskorun"

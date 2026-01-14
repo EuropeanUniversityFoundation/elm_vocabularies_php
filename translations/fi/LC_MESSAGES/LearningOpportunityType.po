@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Finnish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fi\n"
+
+msgid "Learning opportunity type"
+msgstr "Oppimismahdollisuuden tyyppi"
+
+msgid "Course"
+msgstr "Kurssi"
+
+msgid "Programme module"
+msgstr "Ohjelmamoduuli"
+
+msgid "Mentoring"
+msgstr "Mentorointi"
+
+msgid "MOOC"
+msgstr "MOOC"
+
+msgid "Apprenticeship"
+msgstr "Oppisopimus"
+
+msgid "Study visit"
+msgstr "Opintokäynti"
+
+msgid "Short learning programme"
+msgstr "Lyhyt koulutusohjelma"
+
+msgid "Internship"
+msgstr "Harjoittelu"
+
+msgid "Educational programme"
+msgstr "Koulutusohjelma"
+
+msgid "Class"
+msgstr "Luokka"
+
+msgid "Service learning"
+msgstr "Palveluoppiminen"
+
+msgid "Thesis"
+msgstr "Opinnäyte"
+
+msgid "Challenge"
+msgstr "Haastelähtöinen kurssi"

@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Turkish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Öğrenme ve değerlendirme şekli"
+
+msgid "Workbased"
+msgstr "Çalışma temelli"
+
+msgid "Project based"
+msgstr "Proje temelli"
+
+msgid "Presential"
+msgstr "Sunumla"
+
+msgid "Online"
+msgstr "Çevrim İçi"
+
+msgid "Blended"
+msgstr "Karma"
+
+msgid "Research-Lab based"
+msgstr "Araştırma laboratuvarı temelli"
+
+msgid "Hybrid"
+msgstr "Melez"

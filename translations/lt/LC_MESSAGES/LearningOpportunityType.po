@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Lithuanian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lt\n"
+
+msgid "Learning opportunity type"
+msgstr "Mokymosi galimybės tipas"
+
+msgid "Course"
+msgstr "Kursas"
+
+msgid "Programme module"
+msgstr "Programos modulis"
+
+msgid "Mentoring"
+msgstr "Kuravimas"
+
+msgid "MOOC"
+msgstr "Atviri masinio nuotolinio mokymo kursai"
+
+msgid "Apprenticeship"
+msgstr "Pameistrystė"
+
+msgid "Study visit"
+msgstr "Pažintinė išvyka"
+
+msgid "Short learning programme"
+msgstr "Trumpojo mokymosi programa"
+
+msgid "Internship"
+msgstr "Stažuotė"
+
+msgid "Educational programme"
+msgstr "Mokymo programa"
+
+msgid "Class"
+msgstr "Pratybos"
+
+msgid "Service learning"
+msgstr "Praktinis mokymasis"
+
+msgid "Thesis"
+msgstr "Baigiamasis darbas"
+
+msgid "Challenge"
+msgstr "Uždavinys"

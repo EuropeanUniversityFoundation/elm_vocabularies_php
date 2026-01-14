@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Norwegian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: no\n"
+
+msgid "Learning setting type"
+msgstr "Type opplæringsinnstilling"
+
+msgid "formal learning"
+msgstr "Formell læring"
+
+msgid "non-formal learning"
+msgstr "Ikke-formell læring"

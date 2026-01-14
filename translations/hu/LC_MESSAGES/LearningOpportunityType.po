@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Hungarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu\n"
+
+msgid "Learning opportunity type"
+msgstr "A tanulási lehetőség típusa"
+
+msgid "Course"
+msgstr "Képzés"
+
+msgid "Programme module"
+msgstr "Programmodul"
+
+msgid "Mentoring"
+msgstr "Mentorálás"
+
+msgid "MOOC"
+msgstr "Virtuális szabadegyetem"
+
+msgid "Apprenticeship"
+msgstr "Tanulószerződéses gyakorlati képzés"
+
+msgid "Study visit"
+msgstr "Tanulmányi látogatás"
+
+msgid "Short learning programme"
+msgstr "Rövid tanulási program"
+
+msgid "Internship"
+msgstr "Szakmai gyakorlat"
+
+msgid "Educational programme"
+msgstr "Oktatási program"
+
+msgid "Class"
+msgstr "Osztály"
+
+msgid "Service learning"
+msgstr "Közösségi szolgálat"
+
+msgid "Thesis"
+msgstr "Diplomamunka"
+
+msgid "Challenge"
+msgstr "Kihívás"

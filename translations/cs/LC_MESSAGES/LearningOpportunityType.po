@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Czech.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+
+msgid "Learning opportunity type"
+msgstr "Typ vzdělávací příležitosti"
+
+msgid "Course"
+msgstr "Kurz"
+
+msgid "Programme module"
+msgstr "Modul programu"
+
+msgid "Mentoring"
+msgstr "Mentoring"
+
+msgid "MOOC"
+msgstr "Hromadné otevřené on-line kurzy (MOOC)"
+
+msgid "Apprenticeship"
+msgstr "Učňovská příprava"
+
+msgid "Study visit"
+msgstr "Studijní pobyt"
+
+msgid "Short learning programme"
+msgstr "Krátký vzdělávací program"
+
+msgid "Internship"
+msgstr "Praxe a stáže"
+
+msgid "Educational programme"
+msgstr "Vzdělávací program"
+
+msgid "Class"
+msgstr "Třída"
+
+msgid "Service learning"
+msgstr "Učení prostřednictvím služeb"
+
+msgid "Thesis"
+msgstr "Disertační/diplomová/doktorská práce"
+
+msgid "Challenge"
+msgstr "Výzva"

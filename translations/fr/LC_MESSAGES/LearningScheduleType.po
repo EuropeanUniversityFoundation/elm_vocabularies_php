@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in French.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+
+msgid "Learning schedule type"
+msgstr "Type d’horaire d’apprentissage"
+
+msgid "Part time light"
+msgstr "Temps partiel léger"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Temps partiel léger (moins de 8 heures)"
+
+msgid "Full time "
+msgstr "Temps plein"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Temps plein (plus de 30 heures)"
+
+msgid "Part time intensive "
+msgstr "Temps partiel intensif"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Temps partiel intensif (8 à 30 heures)"

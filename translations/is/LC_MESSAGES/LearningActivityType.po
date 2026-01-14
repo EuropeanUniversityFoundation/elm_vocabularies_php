@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Icelandic.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: is\n"
+
+msgid "Learning activity type"
+msgstr "Tegund námsiðkunar"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Nám á rannsóknarstofu / með hermi / verklegt nám"
+
+msgid "job experience"
+msgstr "Starfsreynsla"
+
+msgid "volunteering"
+msgstr "Sjálfboðavinna"
+
+msgid "research"
+msgstr "Rannsóknir"
+
+msgid "self-motivated study"
+msgstr "Sjálfstæð ástundun"
+
+msgid "e-learning coursework"
+msgstr "Námskeið gegnum netið"
+
+msgid "internship"
+msgstr "Starfsnám"
+
+msgid "apprenticeship"
+msgstr "Samningsbundið nám"
+
+msgid "workshop, seminar or conference"
+msgstr "Vinnufundur, málstofa eða ráðstefna"
+
+msgid "educational programme"
+msgstr "Námsleið"
+
+msgid "classroom coursework"
+msgstr "Nám í kennslustofu"
+
+msgid "mentoring and monitoring activity"
+msgstr "Leiðsögn og eftirlit"

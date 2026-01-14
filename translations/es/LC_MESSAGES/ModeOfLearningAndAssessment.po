@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Spanish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Tipo de aprendizaje y evaluación"
+
+msgid "Workbased"
+msgstr "Basado en el trabajo"
+
+msgid "Project based"
+msgstr "Basado en proyectos"
+
+msgid "Presential"
+msgstr "Presencial"
+
+msgid "Online"
+msgstr "En línea"
+
+msgid "Blended"
+msgstr "Mixto"
+
+msgid "Research-Lab based"
+msgstr "Basado en la investigación en laboratorio"
+
+msgid "Hybrid"
+msgstr "Híbrido"

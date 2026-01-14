@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Czech.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+
+msgid "Assessment type"
+msgstr "Typ hodnocení"
+
+msgid "peer assessment"
+msgstr "Vzájemné hodnocení"
+
+msgid "Peers grade you."
+msgstr "Hodnotí vás kolegové."
+
+msgid "marked assignment"
+msgstr "Hodnocený úkol"
+
+msgid "continuous evaluation"
+msgstr "Průběžné hodnocení"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Výkon ve skupině"
+
+msgid "practical assessment"
+msgstr "Praktické hodnocení"
+
+msgid "written examination"
+msgstr "Písemná zkouška"
+
+msgid "level of attendance"
+msgstr "Míra účasti"
+
+msgid "project work"
+msgstr "Projekt"
+
+msgid "peer review"
+msgstr "vzájemné posouzení"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Zkouška prezentačních dovedností a schopnosti syntézy. Zpětnou vazbu poskytují kolegové, ale hodnocení dává vyučující."
+
+msgid "quiz"
+msgstr "Kvíz"
+
+msgid "problem based learning"
+msgstr "Učení založené na řešení problémů"
+
+msgid "oral examination"
+msgstr "Ústní zkouška"
+
+msgid "artefact assessment"
+msgstr "Posouzení výrobku"
+
+msgid "Presentation"
+msgstr "Prezentace"

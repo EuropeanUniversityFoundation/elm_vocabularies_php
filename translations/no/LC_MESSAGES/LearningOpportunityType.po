@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Norwegian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: no\n"
+
+msgid "Learning opportunity type"
+msgstr "Type læringsmulighet"
+
+msgid "Course"
+msgstr "Kurs"
+
+msgid "Programme module"
+msgstr "Programmodul"
+
+msgid "Mentoring"
+msgstr "Veiledning"
+
+msgid "MOOC"
+msgstr "Bredt anlagte nettkurs (MOOC)"
+
+msgid "Apprenticeship"
+msgstr "Læretid"
+
+msgid "Study visit"
+msgstr "Studiereise"
+
+msgid "Short learning programme"
+msgstr "Kortvarig opplæring"
+
+msgid "Internship"
+msgstr "Praktikanterfaring"
+
+msgid "Educational programme"
+msgstr "Utdannings-/opplæringsprogram"
+
+msgid "Class"
+msgstr "Klasserom"
+
+msgid "Service learning"
+msgstr "Samfunnstjenester"
+
+msgid "Thesis"
+msgstr "Doktoravhandling"
+
+msgid "Challenge"
+msgstr "Utfordring"

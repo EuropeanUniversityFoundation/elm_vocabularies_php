@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Bulgarian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: bg\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Начин на учене и оценяване"
+
+msgid "Workbased"
+msgstr "Учене в процеса на работа"
+
+msgid "Project based"
+msgstr "Основано на проекти учене"
+
+msgid "Presential"
+msgstr "Присъствен"
+
+msgid "Online"
+msgstr "Онлайн"
+
+msgid "Blended"
+msgstr "Смесен"
+
+msgid "Research-Lab based"
+msgstr "Учене, основано на научноизследователска дейност"
+
+msgid "Hybrid"
+msgstr "Хибриден"

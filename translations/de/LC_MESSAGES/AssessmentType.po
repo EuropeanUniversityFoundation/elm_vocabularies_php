@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in German.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Assessment type"
+msgstr "Beurteilungsart"
+
+msgid "peer assessment"
+msgstr "Peer Assessment"
+
+msgid "Peers grade you."
+msgstr "Bewertung durch die anderen Lernenden."
+
+msgid "marked assignment"
+msgstr "Benotete Aufgabe"
+
+msgid "continuous evaluation"
+msgstr "Fortlaufende Evaluierung"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Gruppenleistung"
+
+msgid "practical assessment"
+msgstr "Praktische Beurteilung"
+
+msgid "written examination"
+msgstr "Schriftliche Prüfung"
+
+msgid "level of attendance"
+msgstr "Anwesenheit"
+
+msgid "project work"
+msgstr "Projektarbeit"
+
+msgid "peer review"
+msgstr "Peer-Review"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Test der Präsentations- oder Synthesefähigkeiten. Feedback durch die anderen Lernenden, aber Bewertung durch die Lehrkraft."
+
+msgid "quiz"
+msgstr "Quiz"
+
+msgid "problem based learning"
+msgstr "Problemorientiertes Lernen"
+
+msgid "oral examination"
+msgstr "Mündliche Prüfung"
+
+msgid "artefact assessment"
+msgstr "Beurteilung eines Werks"
+
+msgid "Presentation"
+msgstr "Darstellung"

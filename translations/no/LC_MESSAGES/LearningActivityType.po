@@ -1,0 +1,44 @@
+# ELM Learning activity type vocabulary in Norwegian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: no\n"
+
+msgid "Learning activity type"
+msgstr "Type læringsaktivitet"
+
+msgid "lab / simulation / practice coursework"
+msgstr "Laboratoriearbeid/simulering/praktisk opplæring"
+
+msgid "job experience"
+msgstr "Arbeidserfaring"
+
+msgid "volunteering"
+msgstr "Frivilling arbeid"
+
+msgid "research"
+msgstr "Forskning"
+
+msgid "self-motivated study"
+msgstr "Selvstudie"
+
+msgid "e-learning coursework"
+msgstr "E-læring"
+
+msgid "internship"
+msgstr "Praktikanterfaring"
+
+msgid "apprenticeship"
+msgstr "Læretid"
+
+msgid "workshop, seminar or conference"
+msgstr "Arbeidsgruppe, seminar eller konferanse"
+
+msgid "educational programme"
+msgstr "Utdannings- eller opplæringsprogram"
+
+msgid "classroom coursework"
+msgstr "Klasseromsundervisning"
+
+msgid "mentoring and monitoring activity"
+msgstr "mentor- og overvåkningsaktivitet"

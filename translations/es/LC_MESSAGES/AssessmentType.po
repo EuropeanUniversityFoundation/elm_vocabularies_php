@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Spanish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "Assessment type"
+msgstr "Tipo de evaluación"
+
+msgid "peer assessment"
+msgstr "Evaluación por pares"
+
+msgid "Peers grade you."
+msgstr "Los compañeros califican."
+
+msgid "marked assignment"
+msgstr "Tarea puntuable"
+
+msgid "continuous evaluation"
+msgstr "Evaluación continua"
+
+msgid "portfolio"
+msgstr "Expediente"
+
+msgid "group performance"
+msgstr "Resultados de un grupo"
+
+msgid "practical assessment"
+msgstr "Evaluación práctica"
+
+msgid "written examination"
+msgstr "Examen escrito"
+
+msgid "level of attendance"
+msgstr "Nivel de asistencia"
+
+msgid "project work"
+msgstr "Trabajo en un proyecto"
+
+msgid "peer review"
+msgstr "Revisión interpares"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Prueba de capacidades de presentación o síntesis. Los compañeros proporcionan comentarios, pero el profesor califica."
+
+msgid "quiz"
+msgstr "Test"
+
+msgid "problem based learning"
+msgstr "Aprendizaje basado en problemas"
+
+msgid "oral examination"
+msgstr "Examen oral"
+
+msgid "artefact assessment"
+msgstr "Evaluación de artefactos"
+
+msgid "Presentation"
+msgstr "Presentación"

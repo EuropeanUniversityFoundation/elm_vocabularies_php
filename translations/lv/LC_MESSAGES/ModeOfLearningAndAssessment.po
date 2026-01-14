@@ -1,0 +1,29 @@
+# ELM Mode of learning and assessment vocabulary in Latvian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lv\n"
+
+msgid "Mode of learning and assessment"
+msgstr "Mācīšanās un novērtēšanas metode"
+
+msgid "Workbased"
+msgstr "Darbā balstītas"
+
+msgid "Project based"
+msgstr "Uz projektu balstītas"
+
+msgid "Presential"
+msgstr "Klātienē"
+
+msgid "Online"
+msgstr "Internetā"
+
+msgid "Blended"
+msgstr "Jaukta veida"
+
+msgid "Research-Lab based"
+msgstr "Balstītas uz pētniecību laboratorijā"
+
+msgid "Hybrid"
+msgstr "Hibrīds(-a)"

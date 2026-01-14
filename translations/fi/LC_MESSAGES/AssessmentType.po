@@ -1,0 +1,59 @@
+# ELM Assessment type vocabulary in Finnish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fi\n"
+
+msgid "Assessment type"
+msgstr "Arvioinnin tyyppi"
+
+msgid "peer assessment"
+msgstr "Vertaisarviointi"
+
+msgid "Peers grade you."
+msgstr "Vertaiset arvioivat suorituksesi."
+
+msgid "marked assignment"
+msgstr "Arvosteltava tehtävä"
+
+msgid "continuous evaluation"
+msgstr "Jatkuva arviointi"
+
+msgid "portfolio"
+msgstr "Portfolio"
+
+msgid "group performance"
+msgstr "Työskentely ryhmässä"
+
+msgid "practical assessment"
+msgstr "Käytännön arviointi"
+
+msgid "written examination"
+msgstr "Kirjallinen koe"
+
+msgid "level of attendance"
+msgstr "Osallistumisaste"
+
+msgid "project work"
+msgstr "Projektityö"
+
+msgid "peer review"
+msgstr "Vertaispalaute"
+
+msgid "test of presentation and/or synthesis skills"
+msgstr "Koe, jolla mitataan esiintymis- tai yhteenvetotaitoja. Opettaja antaa arvosanan, vertaiset antavat palautetta."
+
+msgid "quiz"
+msgstr "Visa"
+
+msgid "problem based learning"
+msgstr "Ongelmalähtöinen oppiminen"
+
+msgid "oral examination"
+msgstr "Suullinen koe"
+
+msgid "artefact assessment"
+msgstr "Esineen arviointi"
+
+msgid "Presentation"
+msgstr "Esitys"

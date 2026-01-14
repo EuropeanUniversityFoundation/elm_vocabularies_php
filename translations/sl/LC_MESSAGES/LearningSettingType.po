@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Slovenian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sl\n"
+
+msgid "Learning setting type"
+msgstr "Vrsta učnega načrta"
+
+msgid "formal learning"
+msgstr "Formalno učenje"
+
+msgid "non-formal learning"
+msgstr "Neformalno učenje"

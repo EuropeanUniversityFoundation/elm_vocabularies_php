@@ -1,0 +1,26 @@
+# ELM Learning schedule type vocabulary in Slovak.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk\n"
+
+msgid "Learning schedule type"
+msgstr "Typ študijného rozvrhu"
+
+msgid "Part time light"
+msgstr "Menej intenzívne štúdium s čiastočnou prítomnosťou"
+
+msgid "Part time light (less than 8 hours)"
+msgstr "Menej intenzívne štúdium s čiastočnou prítomnosťou (menej ako 8 hodín)"
+
+msgid "Full time "
+msgstr "Denné"
+
+msgid "Full time (more then 30 hours)"
+msgstr "Denné (viac ako 30 hodín)"
+
+msgid "Part time intensive "
+msgstr "Intenzívne štúdium s čiastočnou prítomnosťou"
+
+msgid "Part time intensive (8 to 30 hours)"
+msgstr "Intenzívne štúdium s čiastočnou prítomnosťou (8 až 30 hodín)"

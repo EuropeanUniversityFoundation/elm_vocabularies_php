@@ -1,0 +1,14 @@
+# ELM Learning setting type vocabulary in Swedish.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv\n"
+
+msgid "Learning setting type"
+msgstr "Typ av lärmiljö"
+
+msgid "formal learning"
+msgstr "Formellt lärande"
+
+msgid "non-formal learning"
+msgstr "Icke-formellt lärande"

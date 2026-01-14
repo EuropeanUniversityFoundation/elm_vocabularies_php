@@ -1,0 +1,47 @@
+# ELM Learning opportunity type vocabulary in Croatian.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hr\n"
+
+msgid "Learning opportunity type"
+msgstr "Vrsta mogućnosti učenja"
+
+msgid "Course"
+msgstr "Tečaj"
+
+msgid "Programme module"
+msgstr "Modul programa"
+
+msgid "Mentoring"
+msgstr "Mentorstvo"
+
+msgid "MOOC"
+msgstr "Masovni otvoreni internetski tečaj"
+
+msgid "Apprenticeship"
+msgstr "Naukovanje"
+
+msgid "Study visit"
+msgstr "Studijsko putovanje"
+
+msgid "Short learning programme"
+msgstr "Kratki program učenja"
+
+msgid "Internship"
+msgstr "Stažiranje"
+
+msgid "Educational programme"
+msgstr "Obrazovni program"
+
+msgid "Class"
+msgstr "Razred"
+
+msgid "Service learning"
+msgstr "Učenje zalaganjem u zajednici (service learning)"
+
+msgid "Thesis"
+msgstr "Završni rad"
+
+msgid "Challenge"
+msgstr "Izazov"
