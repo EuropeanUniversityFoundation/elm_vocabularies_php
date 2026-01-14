@@ -1,0 +1,10 @@
+# ELM {{ name }} vocabulary in {{ langcode|language_name }}.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: {{ langcode }}\n"
+{% for message in messages %}
+
+msgid "{{ message.msgid }}"
+msgstr "{{ message.msgstr }}"
+{% endfor %}

@@ -23,6 +23,7 @@
         "squizlabs/php_codesniffer": "^4.0",
         "sweetrdf/easyrdf": "^1.19",
         "brick/varexporter": "^0.7",
-        "twig/twig": "^3.22"
+        "twig/twig": "^3.22",
+        "twig/intl-extra": "^3.22"
     }
 }

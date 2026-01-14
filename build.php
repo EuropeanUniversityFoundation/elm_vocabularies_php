@@ -8,12 +8,14 @@ use Brick\VarExporter\VarExporter;
 use EasyRdf\Graph;
 use EasyRdf\RdfNamespace;
 use Twig\Environment;
+use Twig\Extra\Intl\IntlExtension;
 use Twig\Loader\FilesystemLoader;
 
 $loader = new FilesystemLoader(__DIR__ . '/templates');
 $twig = new Environment($loader, [
     'autoescape' => false,
 ]);
+$twig->addExtension(new IntlExtension());
 
 RdfNamespace::set('dc', 'http://purl.org/dc/elements/1.1/');
 RdfNamespace::set('ns5', 'http://publications.europa.eu/ontology/euvoc#');
@@ -116,4 +118,57 @@ foreach ($vocabularies as $class => $path) {
 
     $content = $twig->render('TemplateVocabulary.php.twig', $twigData);
     file_put_contents(__DIR__ . '/src/' . $class . '.php', $content);
+
+    $translations = [];
+
+    $enLabel = $tree['labels']['en'];
+    foreach ($tree['labels'] as $langcode => $label) {
+        if ($langcode != 'en') {
+            $translations[$langcode][] = [
+                'msgid' => $enLabel,
+                'msgstr' => $label,
+            ];
+        }
+    }
+
+    foreach ($tree['children'] as $child => $props) {
+        $enLabel = $props['labels']['en'];
+        foreach ($props['labels'] as $langcode => $label) {
+            if ($langcode != 'en') {
+                $translations[$langcode][] = [
+                    'msgid' => $enLabel,
+                    'msgstr' => $label,
+                ];
+            }
+        }
+
+        $enDefinition = $props['definitions']['en'] ?? null;
+        if (!is_null($enDefinition)) {
+            foreach ($props['definitions'] as $langcode => $definition) {
+                if ($langcode != 'en') {
+                    $translations[$langcode][] = [
+                        'msgid' => $enDefinition,
+                        'msgstr' => $definition,
+                    ];
+                }
+            }
+        }
+    }
+
+    foreach ($translations as $langcode => $messages) {
+        $twigData = [
+            'name' => $tree['labels']['en'],
+            'langcode' => $langcode,
+            'messages' => $messages,
+        ];
+
+        $content = $twig->render('translation.po.twig', $twigData);
+
+        $dir = __DIR__ . '/translations/' . $langcode . '/LC_MESSAGES/';
+        if (!is_dir($dir)) {
+            mkdir($dir, 0777, true);
+        }
+
+        file_put_contents($dir . $class . '.po', $content);
+    }
 }
