@@ -32,6 +32,12 @@ $vocabularies = [
     'ModeOfLearningAndAssessment' => 'learning-assessment/25831c2',
 ];
 
+$localeCopies = [
+    'en' => ['en_GB'],
+    'no' => ['nb'],
+    'pt' => ['pt_PT'],
+];
+
 foreach ($vocabularies as $class => $path) {
     $tree = [
         'labels' => [],
@@ -123,52 +129,54 @@ foreach ($vocabularies as $class => $path) {
 
     $enLabel = $tree['labels']['en'];
     foreach ($tree['labels'] as $langcode => $label) {
-        if ($langcode != 'en') {
-            $translations[$langcode][] = [
-                'msgid' => $enLabel,
-                'msgstr' => $label,
-            ];
-        }
+        $translations[$langcode][] = [
+            'msgid' => $enLabel,
+            'msgstr' => $label,
+        ];
     }
 
     foreach ($tree['children'] as $child => $props) {
         $enLabel = $props['labels']['en'];
         foreach ($props['labels'] as $langcode => $label) {
-            if ($langcode != 'en') {
-                $translations[$langcode][] = [
-                    'msgid' => $enLabel,
-                    'msgstr' => $label,
-                ];
-            }
+            $translations[$langcode][] = [
+                'msgid' => $enLabel,
+                'msgstr' => $label,
+            ];
         }
 
         $enDefinition = $props['definitions']['en'] ?? null;
         if (!is_null($enDefinition)) {
             foreach ($props['definitions'] as $langcode => $definition) {
-                if ($langcode != 'en') {
-                    $translations[$langcode][] = [
-                        'msgid' => $enDefinition,
-                        'msgstr' => $definition,
-                    ];
-                }
+                $translations[$langcode][] = [
+                    'msgid' => $enDefinition,
+                    'msgstr' => $definition,
+                ];
             }
         }
     }
 
-    foreach ($translations as $langcode => $messages) {
-        $twigData = [
-            'name' => $tree['labels']['en'],
-            'langcode' => $langcode,
-            'messages' => $messages,
-        ];
-
-        $content = $twig->render('translation.po.twig', $twigData);
-
-        $dir = __DIR__ . '/translations/' . $langcode . '/LC_MESSAGES/';
-        if (!is_dir($dir)) {
-            mkdir($dir, 0777, true);
+    foreach ($localeCopies as $source => $targets) {
+        foreach ($targets as $target) {
+            $translations[$target] = $translations[$source];
         }
+    }
 
-        file_put_contents($dir . $class . '.po', $content);
+    foreach ($translations as $langcode => $messages) {
+        if ($langcode != 'en') {
+            $twigData = [
+                'name' => $tree['labels']['en'],
+                'langcode' => $langcode,
+                'messages' => $messages,
+            ];
+
+            $content = $twig->render('translation.po.twig', $twigData);
+
+            $dir = __DIR__ . '/translations/' . $langcode . '/LC_MESSAGES/';
+            if (!is_dir($dir)) {
+                mkdir($dir, 0777, true);
+            }
+
+            file_put_contents($dir . $class . '.po', $content);
+        }
     }
 }
