@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Elm;
 
 /**
@@ -10,25 +12,30 @@ interface ControlledVocabularyInterface
     /**
      * Get vocabulary name.
      *
-     * Returns the name of the vocabulary in the specified language.
+     * Returns the name of the ELM controlled vocabulary.
      *
-     * @param string $language Language of the vocabulary name
-     *
-     * @return string|null
+     * @return string
      **/
-    public function getName(string $language): ?string;
+    public function getName(): string;
+
+    /**
+     * Get vocabulary.
+     *
+     * Returns the content of the controlled vocabulary.
+     *
+     * @return array<string, array<string, string|null>>
+     **/
+    public function getVocabulary(): array;
 
     /**
      * Get labeled list.
      *
-     * Returns a list of items labeled in the specified language.
+     * Returns a list of labeled items.
      * Items are indexed by their vocabulary key.
      *
-     * @param string $language Language of the labels
-     *
-     * @return array
+     * @return array<string, string>
      **/
-    public function getLabeledList(string $language): array;
+    public function getLabeledList(): array;
 
     /**
      * Key exists.
@@ -48,8 +55,7 @@ interface ControlledVocabularyInterface
      *
      * @param string $key The key of the item to retrieve.
      *
-     * @return array|null
+     * @return array<string, array<string, string>>
      **/
     public function get(string $key): ?array;
-
 }
